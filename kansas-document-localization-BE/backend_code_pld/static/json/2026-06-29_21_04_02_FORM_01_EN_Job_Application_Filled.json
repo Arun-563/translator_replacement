@@ -1,0 +1,3546 @@
+{
+    "documents": [
+        {
+            "document_metadata": {
+                "file_name": "tmpwdd3mu9y.pdf",
+                "total_pages": 2,
+                "source_type": "digital",
+                "processed_at": "2026-06-29T21:04:02"
+            },
+            "pages": [
+                {
+                    "page_number": 1,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#0D47A1",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    45.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    767.0,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    86.0,
+                                    428.0,
+                                    526.0,
+                                    450.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    86.0,
+                                    450.0,
+                                    526.0,
+                                    472.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    86.0,
+                                    472.0,
+                                    526.0,
+                                    494.0
+                                ],
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    86.0,
+                                    494.0,
+                                    526.0,
+                                    516.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    76.0,
+                                    554.0,
+                                    536.0,
+                                    576.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    76.0,
+                                    576.0,
+                                    536.0,
+                                    598.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    76.0,
+                                    598.0,
+                                    536.0,
+                                    620.0
+                                ],
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    76.0,
+                                    620.0,
+                                    536.0,
+                                    642.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    71.0,
+                                    680.0,
+                                    541.0,
+                                    702.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    71.0,
+                                    702.0,
+                                    541.0,
+                                    724.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                45.0
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b2",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                767.0,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b3",
+                            "type": "line",
+                            "bbox": [
+                                61.0,
+                                116.0,
+                                551.0,
+                                116.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        61.0,
+                                        116.0,
+                                        551.0,
+                                        116.0
+                                    ]
+                                ],
+                                "stroke_color": "#0D47A1",
+                                "stroke_width": 2.0,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b4",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                177.0,
+                                546.0,
+                                177.0
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        177.0,
+                                        546.0,
+                                        177.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b5",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                273.0,
+                                546.0,
+                                273.0
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        273.0,
+                                        546.0,
+                                        273.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b6",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                177.0,
+                                66.0,
+                                273.0
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        273.0,
+                                        66.0,
+                                        177.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b7",
+                            "type": "line",
+                            "bbox": [
+                                546.0,
+                                177.0,
+                                546.0,
+                                273.0
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        546.0,
+                                        273.0,
+                                        546.0,
+                                        177.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b8",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                201.0,
+                                546.0,
+                                201.0
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        201.0,
+                                        546.0,
+                                        201.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b9",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                225.0,
+                                546.0,
+                                225.0
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        225.0,
+                                        546.0,
+                                        225.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b10",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                249.0,
+                                546.0,
+                                249.0
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        249.0,
+                                        546.0,
+                                        249.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b11",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                177.0,
+                                306.0,
+                                273.0
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        273.0,
+                                        306.0,
+                                        177.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b12",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                311.0,
+                                546.0,
+                                311.0
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        311.0,
+                                        546.0,
+                                        311.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b13",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                359.0,
+                                546.0,
+                                359.0
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        359.0,
+                                        546.0,
+                                        359.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b14",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                311.0,
+                                66.0,
+                                359.0
+                            ],
+                            "z_index": 14,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        359.0,
+                                        66.0,
+                                        311.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b15",
+                            "type": "line",
+                            "bbox": [
+                                546.0,
+                                311.0,
+                                546.0,
+                                359.0
+                            ],
+                            "z_index": 15,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        546.0,
+                                        359.0,
+                                        546.0,
+                                        311.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b16",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                335.0,
+                                546.0,
+                                335.0
+                            ],
+                            "z_index": 16,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        335.0,
+                                        546.0,
+                                        335.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b17",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                311.0,
+                                306.0,
+                                359.0
+                            ],
+                            "z_index": 17,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        359.0,
+                                        306.0,
+                                        311.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b18",
+                            "type": "filled_rect",
+                            "bbox": [
+                                86.0,
+                                428.0,
+                                526.0,
+                                450.0
+                            ],
+                            "z_index": 18,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b19",
+                            "type": "filled_rect",
+                            "bbox": [
+                                86.0,
+                                450.0,
+                                526.0,
+                                472.0
+                            ],
+                            "z_index": 19,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b20",
+                            "type": "filled_rect",
+                            "bbox": [
+                                86.0,
+                                472.0,
+                                526.0,
+                                494.0
+                            ],
+                            "z_index": 20,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b21",
+                            "type": "filled_rect",
+                            "bbox": [
+                                86.0,
+                                494.0,
+                                526.0,
+                                516.0
+                            ],
+                            "z_index": 21,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b22",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                428.0,
+                                526.0,
+                                428.0
+                            ],
+                            "z_index": 22,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        428.0,
+                                        526.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b23",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                516.0,
+                                526.0,
+                                516.0
+                            ],
+                            "z_index": 23,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        516.0,
+                                        526.0,
+                                        516.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b24",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                428.0,
+                                86.0,
+                                516.0
+                            ],
+                            "z_index": 24,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        516.0,
+                                        86.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b25",
+                            "type": "line",
+                            "bbox": [
+                                526.0,
+                                428.0,
+                                526.0,
+                                516.0
+                            ],
+                            "z_index": 25,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        526.0,
+                                        516.0,
+                                        526.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b26",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                450.0,
+                                526.0,
+                                450.0
+                            ],
+                            "z_index": 26,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        450.0,
+                                        526.0,
+                                        450.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b27",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                472.0,
+                                526.0,
+                                472.0
+                            ],
+                            "z_index": 27,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        472.0,
+                                        526.0,
+                                        472.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b28",
+                            "type": "line",
+                            "bbox": [
+                                86.0,
+                                494.0,
+                                526.0,
+                                494.0
+                            ],
+                            "z_index": 28,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        86.0,
+                                        494.0,
+                                        526.0,
+                                        494.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b29",
+                            "type": "line",
+                            "bbox": [
+                                236.0,
+                                428.0,
+                                236.0,
+                                516.0
+                            ],
+                            "z_index": 29,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        236.0,
+                                        516.0,
+                                        236.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b30",
+                            "type": "line",
+                            "bbox": [
+                                346.0,
+                                428.0,
+                                346.0,
+                                516.0
+                            ],
+                            "z_index": 30,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        346.0,
+                                        516.0,
+                                        346.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b31",
+                            "type": "line",
+                            "bbox": [
+                                466.0,
+                                428.0,
+                                466.0,
+                                516.0
+                            ],
+                            "z_index": 31,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        466.0,
+                                        516.0,
+                                        466.0,
+                                        428.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b32",
+                            "type": "filled_rect",
+                            "bbox": [
+                                76.0,
+                                554.0,
+                                536.0,
+                                576.0
+                            ],
+                            "z_index": 32,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b33",
+                            "type": "filled_rect",
+                            "bbox": [
+                                76.0,
+                                576.0,
+                                536.0,
+                                598.0
+                            ],
+                            "z_index": 33,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b34",
+                            "type": "filled_rect",
+                            "bbox": [
+                                76.0,
+                                598.0,
+                                536.0,
+                                620.0
+                            ],
+                            "z_index": 34,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b35",
+                            "type": "filled_rect",
+                            "bbox": [
+                                76.0,
+                                620.0,
+                                536.0,
+                                642.0
+                            ],
+                            "z_index": 35,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b36",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                554.0,
+                                536.0,
+                                554.0
+                            ],
+                            "z_index": 36,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        554.0,
+                                        536.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b37",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                642.0,
+                                536.0,
+                                642.0
+                            ],
+                            "z_index": 37,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        642.0,
+                                        536.0,
+                                        642.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b38",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                554.0,
+                                76.0,
+                                642.0
+                            ],
+                            "z_index": 38,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        642.0,
+                                        76.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b39",
+                            "type": "line",
+                            "bbox": [
+                                536.0,
+                                554.0,
+                                536.0,
+                                642.0
+                            ],
+                            "z_index": 39,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        536.0,
+                                        642.0,
+                                        536.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b40",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                576.0,
+                                536.0,
+                                576.0
+                            ],
+                            "z_index": 40,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        576.0,
+                                        536.0,
+                                        576.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b41",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                598.0,
+                                536.0,
+                                598.0
+                            ],
+                            "z_index": 41,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        598.0,
+                                        536.0,
+                                        598.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b42",
+                            "type": "line",
+                            "bbox": [
+                                76.0,
+                                620.0,
+                                536.0,
+                                620.0
+                            ],
+                            "z_index": 42,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        76.0,
+                                        620.0,
+                                        536.0,
+                                        620.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b43",
+                            "type": "line",
+                            "bbox": [
+                                201.0,
+                                554.0,
+                                201.0,
+                                642.0
+                            ],
+                            "z_index": 43,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        201.0,
+                                        642.0,
+                                        201.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b44",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                554.0,
+                                306.0,
+                                642.0
+                            ],
+                            "z_index": 44,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        642.0,
+                                        306.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b45",
+                            "type": "line",
+                            "bbox": [
+                                406.0,
+                                554.0,
+                                406.0,
+                                642.0
+                            ],
+                            "z_index": 45,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        406.0,
+                                        642.0,
+                                        406.0,
+                                        554.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b46",
+                            "type": "filled_rect",
+                            "bbox": [
+                                71.0,
+                                680.0,
+                                541.0,
+                                702.0
+                            ],
+                            "z_index": 46,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b47",
+                            "type": "filled_rect",
+                            "bbox": [
+                                71.0,
+                                702.0,
+                                541.0,
+                                724.0
+                            ],
+                            "z_index": 47,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b48",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                680.0,
+                                541.0,
+                                680.0
+                            ],
+                            "z_index": 48,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        680.0,
+                                        541.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b49",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                680.0,
+                                71.0,
+                                724.0
+                            ],
+                            "z_index": 49,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        724.0,
+                                        71.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b50",
+                            "type": "line",
+                            "bbox": [
+                                541.0,
+                                680.0,
+                                541.0,
+                                724.0
+                            ],
+                            "z_index": 50,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        541.0,
+                                        724.0,
+                                        541.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b51",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                724.0,
+                                541.0,
+                                724.0
+                            ],
+                            "z_index": 51,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        724.0,
+                                        541.0,
+                                        724.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b52",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                702.0,
+                                541.0,
+                                702.0
+                            ],
+                            "z_index": 52,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        702.0,
+                                        541.0,
+                                        702.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b53",
+                            "type": "line",
+                            "bbox": [
+                                191.0,
+                                680.0,
+                                191.0,
+                                724.0
+                            ],
+                            "z_index": 53,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        191.0,
+                                        724.0,
+                                        191.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b54",
+                            "type": "line",
+                            "bbox": [
+                                311.0,
+                                680.0,
+                                311.0,
+                                724.0
+                            ],
+                            "z_index": 54,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        311.0,
+                                        724.0,
+                                        311.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b55",
+                            "type": "line",
+                            "bbox": [
+                                411.0,
+                                680.0,
+                                411.0,
+                                724.0
+                            ],
+                            "z_index": 55,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        411.0,
+                                        724.0,
+                                        411.0,
+                                        680.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b56",
+                            "type": "table",
+                            "bbox": [
+                                66.0,
+                                177.0,
+                                546.0,
+                                273.0
+                            ],
+                            "z_index": 56,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 1,
+                                "row_count": 4,
+                                "column_count": 2,
+                                "data": [
+                                    [
+                                        "Full Name: James Robert Mitchell",
+                                        "Date of Birth: March 15, 1992"
+                                    ],
+                                    [
+                                        "Address: 742 Oakwood Drive, Apt 3B",
+                                        "City / State / ZIP: Austin, TX 78701"
+                                    ],
+                                    [
+                                        "Phone Number: +1 (512) 884-3297",
+                                        "Email Address: j.mitchell92@gmail.com"
+                                    ],
+                                    [
+                                        "National ID / SSN: ***-**-4821",
+                                        "Driver's License No.: TX-DL-8834721"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            66.0,
+                                            177.0,
+                                            306.0,
+                                            201.0
+                                        ],
+                                        [
+                                            66.0,
+                                            201.0,
+                                            306.0,
+                                            225.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            66.0,
+                                            225.0,
+                                            306.0,
+                                            249.0
+                                        ],
+                                        [
+                                            66.0,
+                                            249.0,
+                                            306.0,
+                                            273.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            177.0,
+                                            546.0,
+                                            201.0
+                                        ],
+                                        [
+                                            306.0,
+                                            201.0,
+                                            546.0,
+                                            225.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            225.0,
+                                            546.0,
+                                            249.0
+                                        ],
+                                        [
+                                            306.0,
+                                            249.0,
+                                            546.0,
+                                            273.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        66.0,
+                                        177.0,
+                                        306.0,
+                                        225.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Full Name: James Robert Mitchell",
+                                        "Date of Birth: March 15, 1992"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b57",
+                            "type": "table",
+                            "bbox": [
+                                66.0,
+                                311.0,
+                                546.0,
+                                359.0
+                            ],
+                            "z_index": 57,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 2,
+                                "row_count": 2,
+                                "column_count": 2,
+                                "data": [
+                                    [
+                                        "Position Title: Senior Software Engineer",
+                                        "Department: Cloud Infrastructure"
+                                    ],
+                                    [
+                                        "Desired Salary: $135,000 / year",
+                                        "Available Start Date: August 1, 2026"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            66.0,
+                                            311.0,
+                                            306.0,
+                                            335.0
+                                        ],
+                                        [
+                                            66.0,
+                                            335.0,
+                                            306.0,
+                                            359.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            311.0,
+                                            546.0,
+                                            335.0
+                                        ],
+                                        [
+                                            306.0,
+                                            335.0,
+                                            546.0,
+                                            359.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        66.0,
+                                        311.0,
+                                        306.0,
+                                        359.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Position Title: Senior Software Engineer",
+                                        "Department: Cloud Infrastructure"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b58",
+                            "type": "table",
+                            "bbox": [
+                                86.0,
+                                428.0,
+                                526.0,
+                                516.0
+                            ],
+                            "z_index": 58,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 3,
+                                "row_count": 4,
+                                "column_count": 4,
+                                "data": [
+                                    [
+                                        "Institution",
+                                        "Degree / Diploma",
+                                        "Field of Study",
+                                        "Year"
+                                    ],
+                                    [
+                                        "University of Texas at Austin",
+                                        "Bachelor of Science",
+                                        "Computer Science",
+                                        "2014"
+                                    ],
+                                    [
+                                        "Georgia Institute of Technology",
+                                        "Master of Science",
+                                        "Software Engineering",
+                                        "2016"
+                                    ],
+                                    [
+                                        "AWS Certified",
+                                        "Professional Certification",
+                                        "Solutions Architect",
+                                        "2022"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            86.0,
+                                            428.0,
+                                            236.0,
+                                            450.0
+                                        ],
+                                        [
+                                            86.0,
+                                            450.0,
+                                            236.0,
+                                            472.0
+                                        ],
+                                        [
+                                            86.0,
+                                            472.0,
+                                            236.0,
+                                            494.0
+                                        ],
+                                        [
+                                            86.0,
+                                            494.0,
+                                            236.0,
+                                            516.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            236.0,
+                                            428.0,
+                                            346.0,
+                                            450.0
+                                        ],
+                                        [
+                                            236.0,
+                                            450.0,
+                                            346.0,
+                                            472.0
+                                        ],
+                                        [
+                                            236.0,
+                                            472.0,
+                                            346.0,
+                                            494.0
+                                        ],
+                                        [
+                                            236.0,
+                                            494.0,
+                                            346.0,
+                                            516.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            346.0,
+                                            428.0,
+                                            466.0,
+                                            450.0
+                                        ],
+                                        [
+                                            346.0,
+                                            450.0,
+                                            466.0,
+                                            472.0
+                                        ],
+                                        [
+                                            346.0,
+                                            472.0,
+                                            466.0,
+                                            494.0
+                                        ],
+                                        [
+                                            346.0,
+                                            494.0,
+                                            466.0,
+                                            516.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            466.0,
+                                            428.0,
+                                            526.0,
+                                            450.0
+                                        ],
+                                        [
+                                            466.0,
+                                            450.0,
+                                            526.0,
+                                            472.0
+                                        ],
+                                        [
+                                            466.0,
+                                            472.0,
+                                            526.0,
+                                            494.0
+                                        ],
+                                        [
+                                            466.0,
+                                            494.0,
+                                            526.0,
+                                            516.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        86.0,
+                                        428.0,
+                                        236.0,
+                                        516.0
+                                    ],
+                                    "fill_color": "#FFFFFF",
+                                    "texts": [
+                                        "Institution",
+                                        "Degree / Diploma",
+                                        "Field of Study",
+                                        "Year"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b59",
+                            "type": "table",
+                            "bbox": [
+                                76.0,
+                                554.0,
+                                536.0,
+                                642.0
+                            ],
+                            "z_index": 59,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 4,
+                                "row_count": 4,
+                                "column_count": 4,
+                                "data": [
+                                    [
+                                        "Employer",
+                                        "Job Title",
+                                        "Duration",
+                                        "Reason for Leaving"
+                                    ],
+                                    [
+                                        "Amazon Web Services",
+                                        "Cloud Engineer",
+                                        "2016 - 2020",
+                                        "Career growth opportunity"
+                                    ],
+                                    [
+                                        "Stripe Inc.",
+                                        "Senior Developer",
+                                        "2020 - 2024",
+                                        "Relocation to Austin"
+                                    ],
+                                    [
+                                        "Freelance Consulting",
+                                        "Lead Architect",
+                                        "2024 - Present",
+                                        "Seeking full-time role"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            76.0,
+                                            554.0,
+                                            201.0,
+                                            576.0
+                                        ],
+                                        [
+                                            76.0,
+                                            576.0,
+                                            201.0,
+                                            598.0
+                                        ],
+                                        [
+                                            76.0,
+                                            598.0,
+                                            201.0,
+                                            620.0
+                                        ],
+                                        [
+                                            76.0,
+                                            620.0,
+                                            201.0,
+                                            642.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            201.0,
+                                            554.0,
+                                            306.0,
+                                            576.0
+                                        ],
+                                        [
+                                            201.0,
+                                            576.0,
+                                            306.0,
+                                            598.0
+                                        ],
+                                        [
+                                            201.0,
+                                            598.0,
+                                            306.0,
+                                            620.0
+                                        ],
+                                        [
+                                            201.0,
+                                            620.0,
+                                            306.0,
+                                            642.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            554.0,
+                                            406.0,
+                                            576.0
+                                        ],
+                                        [
+                                            306.0,
+                                            576.0,
+                                            406.0,
+                                            598.0
+                                        ],
+                                        [
+                                            306.0,
+                                            598.0,
+                                            406.0,
+                                            620.0
+                                        ],
+                                        [
+                                            306.0,
+                                            620.0,
+                                            406.0,
+                                            642.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            406.0,
+                                            554.0,
+                                            536.0,
+                                            576.0
+                                        ],
+                                        [
+                                            406.0,
+                                            576.0,
+                                            536.0,
+                                            598.0
+                                        ],
+                                        [
+                                            406.0,
+                                            598.0,
+                                            536.0,
+                                            620.0
+                                        ],
+                                        [
+                                            406.0,
+                                            620.0,
+                                            536.0,
+                                            642.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        76.0,
+                                        554.0,
+                                        201.0,
+                                        642.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Employer",
+                                        "Job Title",
+                                        "Duration",
+                                        "Reason for Leaving"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b60",
+                            "type": "table",
+                            "bbox": [
+                                71.0,
+                                680.0,
+                                541.0,
+                                724.0
+                            ],
+                            "z_index": 60,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 5,
+                                "row_count": 2,
+                                "column_count": 4,
+                                "data": [
+                                    [
+                                        "Full Name",
+                                        "Relationship",
+                                        "Phone",
+                                        "Email"
+                                    ],
+                                    [
+                                        "Dr. Sarah Chen",
+                                        "Former Manager at AWS",
+                                        "+1 (206) 555-1847",
+                                        "s.chen@aws-alumni.com"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            71.0,
+                                            680.0,
+                                            191.0,
+                                            702.0
+                                        ],
+                                        [
+                                            71.0,
+                                            702.0,
+                                            191.0,
+                                            724.0
+                                        ],
+                                        [
+                                            191.0,
+                                            680.0,
+                                            311.0,
+                                            702.0
+                                        ],
+                                        [
+                                            191.0,
+                                            702.0,
+                                            311.0,
+                                            724.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            311.0,
+                                            680.0,
+                                            411.0,
+                                            702.0
+                                        ],
+                                        [
+                                            311.0,
+                                            702.0,
+                                            411.0,
+                                            724.0
+                                        ],
+                                        [
+                                            411.0,
+                                            680.0,
+                                            541.0,
+                                            702.0
+                                        ],
+                                        [
+                                            411.0,
+                                            702.0,
+                                            541.0,
+                                            724.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        71.0,
+                                        680.0,
+                                        311.0,
+                                        724.0
+                                    ],
+                                    "fill_color": "#0D47A1",
+                                    "texts": [
+                                        "Full Name",
+                                        "Relationship",
+                                        "Phone",
+                                        "Email"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b61",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                16.09000015258789,
+                                552.0,
+                                33.99100112915039
+                            ],
+                            "z_index": 61,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            16.09000015258789,
+                                            196.53895568847656,
+                                            33.99100112915039
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "GlobalTech Industries",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    16.09000015258789,
+                                                    196.53895568847656,
+                                                    33.99100112915039
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "GlobalTech Industries"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.864013671875,
+                                            19.399999618530273,
+                                            552.0,
+                                            30.392000198364258
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Job Application Form",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.864013671875,
+                                                    19.399999618530273,
+                                                    552.0,
+                                                    30.392000198364258
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Job Application Form"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b62",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                776.4749755859375,
+                                552.0001220703125,
+                                786.093017578125
+                            ],
+                            "z_index": 62,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            776.4749755859375,
+                                            142.18698120117188,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — HR Department",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    776.4749755859375,
+                                                    142.18698120117188,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — HR Department"
+                                    },
+                                    {
+                                        "bbox": [
+                                            529.8170166015625,
+                                            776.4749755859375,
+                                            552.0001220703125,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 1",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    529.8170166015625,
+                                                    776.4749755859375,
+                                                    552.0001220703125,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b63",
+                            "type": "text",
+                            "bbox": [
+                                182.66000366210938,
+                                66.5999984741211,
+                                429.3399963378906,
+                                94.13999938964844
+                            ],
+                            "z_index": 63,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            182.66000366210938,
+                                            66.5999984741211,
+                                            429.3399963378906,
+                                            94.13999938964844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "JOB APPLICATION FORM",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 20.0,
+                                                "color": "#1A1A2E",
+                                                "bbox": [
+                                                    182.66000366210938,
+                                                    66.5999984741211,
+                                                    429.3399963378906,
+                                                    94.13999938964844
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "JOB APPLICATION FORM"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b64",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                95.2874984741211,
+                                310.032958984375,
+                                108.34049987792969
+                            ],
+                            "z_index": 64,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            95.2874984741211,
+                                            310.032958984375,
+                                            108.34049987792969
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "GlobalTech Industries Inc. | Human Resources Department",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    95.2874984741211,
+                                                    310.032958984375,
+                                                    108.34049987792969
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "GlobalTech Industries Inc. | Human Resources Department"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b65",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                125.2874984741211,
+                                379.3830261230469,
+                                138.3404998779297
+                            ],
+                            "z_index": 65,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            125.2874984741211,
+                                            379.3830261230469,
+                                            138.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Please complete all sections. Incomplete applications will not be processed.",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    125.2874984741211,
+                                                    379.3830261230469,
+                                                    138.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Please complete all sections. Incomplete applications will not be processed."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b66",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                150.02000427246094,
+                                271.8260192871094,
+                                169.29800415039062
+                            ],
+                            "z_index": 66,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            150.02000427246094,
+                                            271.8260192871094,
+                                            169.29800415039062
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 1: Personal Information",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    150.02000427246094,
+                                                    271.8260192871094,
+                                                    169.29800415039062
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 1: Personal Information"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b67",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                284.0199890136719,
+                                268.7040100097656,
+                                303.2980041503906
+                            ],
+                            "z_index": 67,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            284.0199890136719,
+                                            268.7040100097656,
+                                            303.2980041503906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 2: Position Applied For",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    284.0199890136719,
+                                                    268.7040100097656,
+                                                    303.2980041503906
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 2: Position Applied For"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b68",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                358.2875061035156,
+                                140.19200134277344,
+                                371.34051513671875
+                            ],
+                            "z_index": 68,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            358.2875061035156,
+                                            140.19200134277344,
+                                            371.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Employment Type:",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    358.2875061035156,
+                                                    140.19200134277344,
+                                                    371.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Employment Type:"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b69",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                376.2875061035156,
+                                321.1385192871094,
+                                389.34051513671875
+                            ],
+                            "z_index": 69,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            376.2875061035156,
+                                            321.1385192871094,
+                                            389.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    378.4205627441406,
+                                                    68.22949981689453,
+                                                    387.9205627441406
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Full-Time ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    68.22949981689453,
+                                                    376.2875061035156,
+                                                    113.08850860595703,
+                                                    389.34051513671875
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    113.0885009765625,
+                                                    378.4205627441406,
+                                                    120.31800079345703,
+                                                    387.9205627441406
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Part-Time ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    120.31800842285156,
+                                                    376.2875061035156,
+                                                    167.2954864501953,
+                                                    389.34051513671875
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    167.2954864501953,
+                                                    378.4205627441406,
+                                                    174.52499389648438,
+                                                    387.9205627441406
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Contract / Temporary ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    174.52499389648438,
+                                                    376.2875061035156,
+                                                    269.5534973144531,
+                                                    389.34051513671875
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    269.55352783203125,
+                                                    378.4205627441406,
+                                                    276.78302001953125,
+                                                    387.9205627441406
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Internship",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    276.78302001953125,
+                                                    376.2875061035156,
+                                                    321.1385192871094,
+                                                    389.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "I Full-Time I Part-Time I Contract / Temporary I Internship"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b70",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                401.0199890136719,
+                                199.47401428222656,
+                                420.2980041503906
+                            ],
+                            "z_index": 70,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            401.0199890136719,
+                                            199.47401428222656,
+                                            420.2980041503906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 3: Education",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    401.0199890136719,
+                                                    199.47401428222656,
+                                                    420.2980041503906
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 3: Education"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b71",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                527.02001953125,
+                                245.3939971923828,
+                                546.2979736328125
+                            ],
+                            "z_index": 71,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            527.02001953125,
+                                            245.3939971923828,
+                                            546.2979736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 4: Work Experience",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    527.02001953125,
+                                                    245.3939971923828,
+                                                    546.2979736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 4: Work Experience"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p1_b72",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                653.02001953125,
+                                207.2720184326172,
+                                672.2979736328125
+                            ],
+                            "z_index": 72,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            653.02001953125,
+                                            207.2720184326172,
+                                            672.2979736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 5: References",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    653.02001953125,
+                                                    207.2720184326172,
+                                                    672.2979736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 5: References"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "page_number": 2,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#0D47A1",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    45.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    767.0,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    71.0,
+                                    68.0,
+                                    541.0,
+                                    90.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                45.0
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b2",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                767.0,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0D47A1",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b3",
+                            "type": "filled_rect",
+                            "bbox": [
+                                71.0,
+                                68.0,
+                                541.0,
+                                90.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b4",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                68.0,
+                                71.0,
+                                90.0
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        90.0,
+                                        71.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b5",
+                            "type": "line",
+                            "bbox": [
+                                541.0,
+                                68.0,
+                                541.0,
+                                90.0
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        541.0,
+                                        90.0,
+                                        541.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b6",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                90.0,
+                                541.0,
+                                90.0
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        90.0,
+                                        541.0,
+                                        90.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b7",
+                            "type": "line",
+                            "bbox": [
+                                71.0,
+                                68.0,
+                                541.0,
+                                68.0
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        71.0,
+                                        68.0,
+                                        541.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b8",
+                            "type": "line",
+                            "bbox": [
+                                191.0,
+                                68.0,
+                                191.0,
+                                90.0
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        191.0,
+                                        90.0,
+                                        191.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b9",
+                            "type": "line",
+                            "bbox": [
+                                311.0,
+                                68.0,
+                                311.0,
+                                90.0
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        311.0,
+                                        90.0,
+                                        311.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b10",
+                            "type": "line",
+                            "bbox": [
+                                411.0,
+                                68.0,
+                                411.0,
+                                90.0
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        411.0,
+                                        90.0,
+                                        411.0,
+                                        68.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b11",
+                            "type": "line",
+                            "bbox": [
+                                61.0,
+                                190.0,
+                                551.0,
+                                190.0
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        61.0,
+                                        190.0,
+                                        551.0,
+                                        190.0
+                                    ]
+                                ],
+                                "stroke_color": "#0D47A1",
+                                "stroke_width": 1.0,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b12",
+                            "type": "table",
+                            "bbox": [
+                                71.0,
+                                68.0,
+                                541.0,
+                                90.0
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 1,
+                                "row_count": 1,
+                                "column_count": 4,
+                                "data": [
+                                    [
+                                        "Prof. Michael Torres",
+                                        "Graduate Advisor at GT",
+                                        "+1 (404) 555-9312",
+                                        "mtorres@gatech.edu"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            71.0,
+                                            68.0,
+                                            191.0,
+                                            90.0
+                                        ],
+                                        [
+                                            191.0,
+                                            68.0,
+                                            311.0,
+                                            90.0
+                                        ],
+                                        [
+                                            311.0,
+                                            68.0,
+                                            411.0,
+                                            90.0
+                                        ],
+                                        [
+                                            411.0,
+                                            68.0,
+                                            541.0,
+                                            90.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        71.0,
+                                        68.0,
+                                        541.0,
+                                        90.0
+                                    ],
+                                    "fill_color": "#FFFFFF",
+                                    "texts": [
+                                        "Prof. Michael Torres",
+                                        "Graduate Advisor at GT",
+                                        "+1 (404) 555-9312",
+                                        "mtorres@gatech.edu"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b13",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                16.09000015258789,
+                                552.0,
+                                33.99100112915039
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            16.09000015258789,
+                                            196.53895568847656,
+                                            33.99100112915039
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "GlobalTech Industries",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    16.09000015258789,
+                                                    196.53895568847656,
+                                                    33.99100112915039
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "GlobalTech Industries"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.864013671875,
+                                            19.399999618530273,
+                                            552.0,
+                                            30.392000198364258
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Job Application Form",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.864013671875,
+                                                    19.399999618530273,
+                                                    552.0,
+                                                    30.392000198364258
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Job Application Form"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b14",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                776.4749755859375,
+                                552.0001220703125,
+                                786.093017578125
+                            ],
+                            "z_index": 14,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            776.4749755859375,
+                                            142.18698120117188,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — HR Department",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    776.4749755859375,
+                                                    142.18698120117188,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — HR Department"
+                                    },
+                                    {
+                                        "bbox": [
+                                            529.8170166015625,
+                                            776.4749755859375,
+                                            552.0001220703125,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 2",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    529.8170166015625,
+                                                    776.4749755859375,
+                                                    552.0001220703125,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b15",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                109.0199966430664,
+                                208.04202270507812,
+                                128.29800415039062
+                            ],
+                            "z_index": 15,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            109.0199966430664,
+                                            208.04202270507812,
+                                            128.29800415039062
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 6: Declaration",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    109.0199966430664,
+                                                    208.04202270507812,
+                                                    128.29800415039062
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 6: Declaration"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b16",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                135.28750610351562,
+                                540.9781494140625,
+                                161.3404998779297
+                            ],
+                            "z_index": 16,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            135.28750610351562,
+                                            540.9781494140625,
+                                            148.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I hereby declare that all information provided in this application is true and complete to the best of my knowledge. I",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    135.28750610351562,
+                                                    540.9781494140625,
+                                                    148.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "I hereby declare that all information provided in this application is true and complete to the best of my knowledge. I"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            148.28750610351562,
+                                            396.8155822753906,
+                                            161.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "understand that any false statement may result in disqualification or termination.",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    148.28750610351562,
+                                                    396.8155822753906,
+                                                    161.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "understand that any false statement may result in disqualification or termination."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b17",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                170.28750610351562,
+                                320.7394714355469,
+                                183.41650390625
+                            ],
+                            "z_index": 17,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            170.28750610351562,
+                                            320.7394714355469,
+                                            183.41650390625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Applicant Signature:",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    170.33499145507812,
+                                                    153.90049743652344,
+                                                    183.41650390625
+                                                ],
+                                                "flags": 16
+                                            },
+                                            {
+                                                "text": " ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    153.90049743652344,
+                                                    170.28750610351562,
+                                                    156.54150390625,
+                                                    183.3404998779297
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "James R. Mitchell",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    156.54150390625,
+                                                    170.33499145507812,
+                                                    231.49647521972656,
+                                                    183.197998046875
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": " ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    231.49647521972656,
+                                                    170.28750610351562,
+                                                    234.13748168945312,
+                                                    183.3404998779297
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "Date:",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    234.13748168945312,
+                                                    170.33499145507812,
+                                                    257.8874816894531,
+                                                    183.41650390625
+                                                ],
+                                                "flags": 16
+                                            },
+                                            {
+                                                "text": " June 10, 2026",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    257.887451171875,
+                                                    170.28750610351562,
+                                                    320.7394714355469,
+                                                    183.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Applicant Signature: James R. Mitchell Date: June 10, 2026"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpwdd3mu9y.pdf_p2_b18",
+                            "type": "text",
+                            "bbox": [
+                                83.58000183105469,
+                                193.44000244140625,
+                                528.419921875,
+                                204.27200317382812
+                            ],
+                            "z_index": 18,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            83.58000183105469,
+                                            193.44000244140625,
+                                            528.419921875,
+                                            204.27200317382812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "For HR Use Only — Application Received: 06/10/2026 | Reviewed by: Linda Park | Status: ",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    83.58000183105469,
+                                                    193.44000244140625,
+                                                    404.763916015625,
+                                                    204.27200317382812
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    404.763916015625,
+                                                    195.19625854492188,
+                                                    410.8519287109375,
+                                                    203.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Accepted ",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    410.8519287109375,
+                                                    193.44000244140625,
+                                                    448.65191650390625,
+                                                    204.27200317382812
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    448.65191650390625,
+                                                    195.19625854492188,
+                                                    454.73992919921875,
+                                                    203.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Rejected ",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    454.73992919921875,
+                                                    193.44000244140625,
+                                                    490.75592041015625,
+                                                    204.27200317382812
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    490.75592041015625,
+                                                    195.19625854492188,
+                                                    496.84393310546875,
+                                                    203.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Pending",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    496.84393310546875,
+                                                    193.44000244140625,
+                                                    528.419921875,
+                                                    204.27200317382812
+                                                ],
+                                                "flags": 2
+                                            }
+                                        ],
+                                        "text": "For HR Use Only — Application Received: 06/10/2026 | Reviewed by: Linda Park | Status: I Accepted I Rejected I Pending"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "payload": []
+}

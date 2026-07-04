@@ -1,0 +1,1591 @@
+{
+    "documents": [
+        {
+            "document_metadata": {
+                "file_name": "tmpqo056imt.pdf",
+                "total_pages": 2,
+                "source_type": "digital",
+                "processed_at": "2026-07-01T16:53:17"
+            },
+            "pages": [
+                {
+                    "page_number": 1,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#B03A2E",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    51.84002685546875
+                                ],
+                                "fill_color": "#B03A2E",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    761.760009765625,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    51.400001525878906,
+                                    130.39999389648438,
+                                    560.6000366210938,
+                                    168.79998779296875
+                                ],
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                51.84002685546875
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#B03A2E",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b2",
+                            "type": "vector_path",
+                            "bbox": [
+                                22.600000381469727,
+                                8.91998291015625,
+                                56.599998474121094,
+                                42.91998291015625
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "ops": [
+                                    "c",
+                                    "c",
+                                    "c",
+                                    "c"
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b3",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                761.760009765625,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b4",
+                            "type": "filled_rect",
+                            "bbox": [
+                                51.400001525878906,
+                                130.39999389648438,
+                                560.6000366210938,
+                                168.79998779296875
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b5",
+                            "type": "text",
+                            "bbox": [
+                                33.60150146484375,
+                                9.129977226257324,
+                                572.4000244140625,
+                                31.9229736328125
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            33.60150146484375,
+                                            19.529972076416016,
+                                            45.59850311279297,
+                                            31.9229736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "NT",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.0,
+                                                "color": "#B03A2E",
+                                                "bbox": [
+                                                    33.60150146484375,
+                                                    19.529972076416016,
+                                                    45.59850311279297,
+                                                    31.9229736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "NT"
+                                    },
+                                    {
+                                        "bbox": [
+                                            64.80000305175781,
+                                            9.129977226257324,
+                                            165.21200561523438,
+                                            27.03097915649414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Northstar Travel",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    64.80000305175781,
+                                                    9.129977226257324,
+                                                    165.21200561523438,
+                                                    27.03097915649414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Northstar Travel"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.3680114746094,
+                                            13.720006942749023,
+                                            572.4000244140625,
+                                            24.712007522583008
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Translation Test Document",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.3680114746094,
+                                                    13.720006942749023,
+                                                    572.4000244140625,
+                                                    24.712007522583008
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Translation Test Document"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b6",
+                            "type": "text",
+                            "bbox": [
+                                39.599998474121094,
+                                771.1600341796875,
+                                572.3999633789062,
+                                782.1520385742188
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            39.599998474121094,
+                                            771.1600341796875,
+                                            230.44796752929688,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Northstar Travel — Paragraph-only sample",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    39.599998474121094,
+                                                    771.1600341796875,
+                                                    230.44796752929688,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Northstar Travel — Paragraph-only sample"
+                                    },
+                                    {
+                                        "bbox": [
+                                            547.0479736328125,
+                                            771.1600341796875,
+                                            572.3999633789062,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 1",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    547.0479736328125,
+                                                    771.1600341796875,
+                                                    572.3999633789062,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b7",
+                            "type": "text",
+                            "bbox": [
+                                125.48699951171875,
+                                73.14002227783203,
+                                486.5130310058594,
+                                97.926025390625
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            125.48699951171875,
+                                            73.14002227783203,
+                                            486.5130310058594,
+                                            97.926025390625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "SUSTAINABLE CAFE OPERATIONS NOTE",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 18.0,
+                                                "color": "#1F2A44",
+                                                "bbox": [
+                                                    125.48699951171875,
+                                                    73.14002227783203,
+                                                    486.5130310058594,
+                                                    97.926025390625
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "SUSTAINABLE CAFE OPERATIONS NOTE"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b8",
+                            "type": "text",
+                            "bbox": [
+                                163.53900146484375,
+                                109.72502136230469,
+                                448.4609375,
+                                122.09102630615234
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            163.53900146484375,
+                                            109.72502136230469,
+                                            448.4609375,
+                                            122.09102630615234
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "English version • Unique paragraph-only document • No tables included",
+                                                "font": "Helvetica",
+                                                "font_size": 9.0,
+                                                "color": "#5D6D7E",
+                                                "bbox": [
+                                                    163.53900146484375,
+                                                    109.72502136230469,
+                                                    448.4609375,
+                                                    122.09102630615234
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "English version • Unique paragraph-only document • No tables included"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b9",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                134.6859893798828,
+                                521.1632080078125,
+                                162.93138122558594
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            134.6859893798828,
+                                            521.1632080078125,
+                                            148.73138427734375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Document Note: This file is intentionally formatted with a colored logo header, clear footer, bold",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    134.6859893798828,
+                                                    521.1632080078125,
+                                                    148.73138427734375
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Document Note: This file is intentionally formatted with a colored logo header, clear footer, bold"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            148.885986328125,
+                                            422.5393371582031,
+                                            162.93138122558594
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "section headings, and paragraph-only body text for PDF translation testing.",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    148.885986328125,
+                                                    422.5393371582031,
+                                                    162.93138122558594
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "section headings, and paragraph-only body text for PDF translation testing."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b10",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                170.92498779296875,
+                                222.41249084472656,
+                                188.13748168945312
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            170.92498779296875,
+                                            222.41249084472656,
+                                            188.13748168945312
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 1: Operating Theme",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    170.92498779296875,
+                                                    222.41249084472656,
+                                                    188.13748168945312
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 1: Operating Theme"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b11",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                192.0350341796875,
+                                555.6004028320312,
+                                234.4498291015625
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            192.0350341796875,
+                                            502.01788330078125,
+                                            206.04983520507812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "The cafe introduces a sustainability routine that reduces disposable packaging, highlights seasonal",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    192.0350341796875,
+                                                    502.01788330078125,
+                                                    206.04983520507812
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "The cafe introduces a sustainability routine that reduces disposable packaging, highlights seasonal"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            206.2350311279297,
+                                            555.6004028320312,
+                                            220.2498321533203
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "ingredients, and improves communication with suppliers. The document uses a cheerful business tone suitable",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    206.2350311279297,
+                                                    555.6004028320312,
+                                                    220.2498321533203
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "ingredients, and improves communication with suppliers. The document uses a cheerful business tone suitable"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            220.43502807617188,
+                                            220.23245239257812,
+                                            234.4498291015625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "for customer facing translation tests.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    220.43502807617188,
+                                                    220.23245239257812,
+                                                    234.4498291015625
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "for customer facing translation tests."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b12",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                241.635009765625,
+                                555.2925415039062,
+                                284.0498046875
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            241.635009765625,
+                                            555.2925415039062,
+                                            255.64981079101562
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    241.635009765625,
+                                                    555.2925415039062,
+                                                    255.64981079101562
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            255.83499145507812,
+                                            540.0027465820312,
+                                            269.84979248046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    255.83499145507812,
+                                                    540.0027465820312,
+                                                    269.84979248046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            270.0350036621094,
+                                            231.56466674804688,
+                                            284.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    270.0350036621094,
+                                                    231.56466674804688,
+                                                    284.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b13",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                292.125,
+                                224.5124969482422,
+                                309.3374938964844
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            292.125,
+                                            224.5124969482422,
+                                            309.3374938964844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 2: Kitchen Practices",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    292.125,
+                                                    224.5124969482422,
+                                                    309.3374938964844
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 2: Kitchen Practices"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b14",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                313.2349853515625,
+                                550.7535400390625,
+                                341.4497985839844
+                            ],
+                            "z_index": 14,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            313.2349853515625,
+                                            542.2568969726562,
+                                            327.2497863769531
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Staff members label prepared items, rotate inventory by date, and record reasons for discarded food. These",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    313.2349853515625,
+                                                    542.2568969726562,
+                                                    327.2497863769531
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Staff members label prepared items, rotate inventory by date, and record reasons for discarded food. These"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            327.43499755859375,
+                                            550.7535400390625,
+                                            341.4497985839844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "paragraphs include operational verbs that are useful for checking whether translated instructions stay precise.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    327.43499755859375,
+                                                    550.7535400390625,
+                                                    341.4497985839844
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "paragraphs include operational verbs that are useful for checking whether translated instructions stay precise."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p1_b15",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                348.635009765625,
+                                555.2925415039062,
+                                391.0498046875
+                            ],
+                            "z_index": 15,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            348.635009765625,
+                                            555.2925415039062,
+                                            362.6498107910156
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    348.635009765625,
+                                                    555.2925415039062,
+                                                    362.6498107910156
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            362.8349914550781,
+                                            540.0027465820312,
+                                            376.84979248046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    362.8349914550781,
+                                                    540.0027465820312,
+                                                    376.84979248046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            377.0350036621094,
+                                            231.56466674804688,
+                                            391.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    377.0350036621094,
+                                                    231.56466674804688,
+                                                    391.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "page_number": 2,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#B03A2E",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    51.84002685546875
+                                ],
+                                "fill_color": "#B03A2E",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    761.760009765625,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    51.400001525878906,
+                                    282.3999938964844,
+                                    560.6000366210938,
+                                    320.79998779296875
+                                ],
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                51.84002685546875
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#B03A2E",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b2",
+                            "type": "vector_path",
+                            "bbox": [
+                                22.600000381469727,
+                                8.91998291015625,
+                                56.599998474121094,
+                                42.91998291015625
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "ops": [
+                                    "c",
+                                    "c",
+                                    "c",
+                                    "c"
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b3",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                761.760009765625,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b4",
+                            "type": "filled_rect",
+                            "bbox": [
+                                51.400001525878906,
+                                282.3999938964844,
+                                560.6000366210938,
+                                320.79998779296875
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b5",
+                            "type": "text",
+                            "bbox": [
+                                33.60150146484375,
+                                9.129977226257324,
+                                572.4000244140625,
+                                31.9229736328125
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            33.60150146484375,
+                                            19.529972076416016,
+                                            45.59850311279297,
+                                            31.9229736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "NT",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.0,
+                                                "color": "#B03A2E",
+                                                "bbox": [
+                                                    33.60150146484375,
+                                                    19.529972076416016,
+                                                    45.59850311279297,
+                                                    31.9229736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "NT"
+                                    },
+                                    {
+                                        "bbox": [
+                                            64.80000305175781,
+                                            9.129977226257324,
+                                            165.21200561523438,
+                                            27.03097915649414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Northstar Travel",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    64.80000305175781,
+                                                    9.129977226257324,
+                                                    165.21200561523438,
+                                                    27.03097915649414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Northstar Travel"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.3680114746094,
+                                            13.720006942749023,
+                                            572.4000244140625,
+                                            24.712007522583008
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Translation Test Document",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.3680114746094,
+                                                    13.720006942749023,
+                                                    572.4000244140625,
+                                                    24.712007522583008
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Translation Test Document"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b6",
+                            "type": "text",
+                            "bbox": [
+                                39.599998474121094,
+                                771.1600341796875,
+                                572.3999633789062,
+                                782.1520385742188
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            39.599998474121094,
+                                            771.1600341796875,
+                                            230.44796752929688,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Northstar Travel — Paragraph-only sample",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    39.599998474121094,
+                                                    771.1600341796875,
+                                                    230.44796752929688,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Northstar Travel — Paragraph-only sample"
+                                    },
+                                    {
+                                        "bbox": [
+                                            547.0479736328125,
+                                            771.1600341796875,
+                                            572.3999633789062,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 2",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    547.0479736328125,
+                                                    771.1600341796875,
+                                                    572.3999633789062,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b7",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                73.5250244140625,
+                                246.02500915527344,
+                                90.7375259399414
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            73.5250244140625,
+                                            246.02500915527344,
+                                            90.7375259399414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 3: Customer Messaging",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    73.5250244140625,
+                                                    246.02500915527344,
+                                                    90.7375259399414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 3: Customer Messaging"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b8",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                94.63499450683594,
+                                546.7857055664062,
+                                122.84978485107422
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            94.63499450683594,
+                                            546.7857055664062,
+                                            108.64978790283203
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Menu descriptions explain reusable cup discounts and local sourcing in clear language. The message avoids",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    94.63499450683594,
+                                                    546.7857055664062,
+                                                    108.64978790283203
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Menu descriptions explain reusable cup discounts and local sourcing in clear language. The message avoids"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            108.83499145507812,
+                                            441.3380432128906,
+                                            122.84978485107422
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "technical claims and focuses on practical choices that guests can understand quickly.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    108.83499145507812,
+                                                    441.3380432128906,
+                                                    122.84978485107422
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "technical claims and focuses on practical choices that guests can understand quickly."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b9",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                130.0350341796875,
+                                555.2925415039062,
+                                172.4498291015625
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            130.0350341796875,
+                                            555.2925415039062,
+                                            144.04983520507812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    130.0350341796875,
+                                                    555.2925415039062,
+                                                    144.04983520507812
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            144.2350311279297,
+                                            540.0027465820312,
+                                            158.2498321533203
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    144.2350311279297,
+                                                    540.0027465820312,
+                                                    158.2498321533203
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            158.43502807617188,
+                                            231.56466674804688,
+                                            172.4498291015625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    158.43502807617188,
+                                                    231.56466674804688,
+                                                    172.4498291015625
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b10",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                180.5250244140625,
+                                231.4250030517578,
+                                197.73751831054688
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            180.5250244140625,
+                                            231.4250030517578,
+                                            197.73751831054688
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 4: Monthly Reflection",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    180.5250244140625,
+                                                    231.4250030517578,
+                                                    197.73751831054688
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 4: Monthly Reflection"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b11",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                201.63499450683594,
+                                543.3890380859375,
+                                229.84979248046875
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            201.63499450683594,
+                                            539.4212646484375,
+                                            215.64979553222656
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "At the close of each month, the team reviews waste totals, popular menu items, and customer suggestions.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    201.63499450683594,
+                                                    539.4212646484375,
+                                                    215.64979553222656
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "At the close of each month, the team reviews waste totals, popular menu items, and customer suggestions."
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            215.83499145507812,
+                                            543.3890380859375,
+                                            229.84979248046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "The written summary helps compare how numbers, nouns, and branded headers behave across languages.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    215.83499145507812,
+                                                    543.3890380859375,
+                                                    229.84979248046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "The written summary helps compare how numbers, nouns, and branded headers behave across languages."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b12",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                237.03500366210938,
+                                555.2925415039062,
+                                279.4497985839844
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            237.03500366210938,
+                                            555.2925415039062,
+                                            251.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    237.03500366210938,
+                                                    555.2925415039062,
+                                                    251.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            251.2349853515625,
+                                            540.0027465820312,
+                                            265.2497863769531
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    251.2349853515625,
+                                                    540.0027465820312,
+                                                    265.2497863769531
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            265.43499755859375,
+                                            231.56466674804688,
+                                            279.4497985839844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    265.43499755859375,
+                                                    231.56466674804688,
+                                                    279.4497985839844
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpqo056imt.pdf_p2_b13",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                286.68597412109375,
+                                551.7734375,
+                                314.931396484375
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            286.68597412109375,
+                                            551.7734375,
+                                            300.73138427734375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Closing Statement: The document ends with a concise paragraph to test final-block detection near the",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    286.68597412109375,
+                                                    551.7734375,
+                                                    300.73138427734375
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Closing Statement: The document ends with a concise paragraph to test final-block detection near the"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            300.885986328125,
+                                            111.94920349121094,
+                                            314.931396484375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "footer area.",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    300.885986328125,
+                                                    111.94920349121094,
+                                                    314.931396484375
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "footer area."
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "payload": []
+}

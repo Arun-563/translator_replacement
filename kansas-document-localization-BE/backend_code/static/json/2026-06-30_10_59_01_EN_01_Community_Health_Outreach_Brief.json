@@ -1,0 +1,1663 @@
+{
+    "documents": [
+        {
+            "document_metadata": {
+                "file_name": "tmpo_wntnuy.pdf",
+                "total_pages": 2,
+                "source_type": "digital",
+                "processed_at": "2026-06-30T10:59:01"
+            },
+            "pages": [
+                {
+                    "page_number": 1,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#0B6E4F",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    51.84002685546875
+                                ],
+                                "fill_color": "#0B6E4F",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    761.760009765625,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    51.400001525878906,
+                                    130.39999389648438,
+                                    560.6000366210938,
+                                    168.79998779296875
+                                ],
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                51.84002685546875
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0B6E4F",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b2",
+                            "type": "vector_path",
+                            "bbox": [
+                                22.600000381469727,
+                                8.91998291015625,
+                                56.599998474121094,
+                                42.91998291015625
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "ops": [
+                                    "c",
+                                    "c",
+                                    "c",
+                                    "c"
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b3",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                761.760009765625,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b4",
+                            "type": "filled_rect",
+                            "bbox": [
+                                51.400001525878906,
+                                130.39999389648438,
+                                560.6000366210938,
+                                168.79998779296875
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b5",
+                            "type": "text",
+                            "bbox": [
+                                33.10200119018555,
+                                9.129977226257324,
+                                572.4000244140625,
+                                31.9229736328125
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            33.10200119018555,
+                                            19.529972076416016,
+                                            46.09800338745117,
+                                            31.9229736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "AH",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.0,
+                                                "color": "#0B6E4F",
+                                                "bbox": [
+                                                    33.10200119018555,
+                                                    19.529972076416016,
+                                                    46.09800338745117,
+                                                    31.9229736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "AH"
+                                    },
+                                    {
+                                        "bbox": [
+                                            64.80000305175781,
+                                            9.129977226257324,
+                                            166.66798400878906,
+                                            27.03097915649414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Apex Healthcare",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    64.80000305175781,
+                                                    9.129977226257324,
+                                                    166.66798400878906,
+                                                    27.03097915649414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Apex Healthcare"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.3680114746094,
+                                            13.720006942749023,
+                                            572.4000244140625,
+                                            24.712007522583008
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Translation Test Document",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.3680114746094,
+                                                    13.720006942749023,
+                                                    572.4000244140625,
+                                                    24.712007522583008
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Translation Test Document"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b6",
+                            "type": "text",
+                            "bbox": [
+                                39.599998474121094,
+                                771.1600341796875,
+                                572.3999633789062,
+                                782.1520385742188
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            39.599998474121094,
+                                            771.1600341796875,
+                                            232.23997497558594,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Apex Healthcare — Paragraph-only sample",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    39.599998474121094,
+                                                    771.1600341796875,
+                                                    232.23997497558594,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Apex Healthcare — Paragraph-only sample"
+                                    },
+                                    {
+                                        "bbox": [
+                                            547.0479736328125,
+                                            771.1600341796875,
+                                            572.3999633789062,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 1",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    547.0479736328125,
+                                                    771.1600341796875,
+                                                    572.3999633789062,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b7",
+                            "type": "text",
+                            "bbox": [
+                                128.51100158691406,
+                                73.14002227783203,
+                                483.4889831542969,
+                                97.926025390625
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            128.51100158691406,
+                                            73.14002227783203,
+                                            483.4889831542969,
+                                            97.926025390625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "COMMUNITY HEALTH OUTREACH BRIEF",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 18.0,
+                                                "color": "#1F2A44",
+                                                "bbox": [
+                                                    128.51100158691406,
+                                                    73.14002227783203,
+                                                    483.4889831542969,
+                                                    97.926025390625
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "COMMUNITY HEALTH OUTREACH BRIEF"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b8",
+                            "type": "text",
+                            "bbox": [
+                                163.53900146484375,
+                                109.72502136230469,
+                                448.4609375,
+                                122.09102630615234
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            163.53900146484375,
+                                            109.72502136230469,
+                                            448.4609375,
+                                            122.09102630615234
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "English version • Unique paragraph-only document • No tables included",
+                                                "font": "Helvetica",
+                                                "font_size": 9.0,
+                                                "color": "#5D6D7E",
+                                                "bbox": [
+                                                    163.53900146484375,
+                                                    109.72502136230469,
+                                                    448.4609375,
+                                                    122.09102630615234
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "English version • Unique paragraph-only document • No tables included"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b9",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                134.6859893798828,
+                                521.1632080078125,
+                                162.93138122558594
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            134.6859893798828,
+                                            521.1632080078125,
+                                            148.73138427734375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Document Note: This file is intentionally formatted with a colored logo header, clear footer, bold",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    134.6859893798828,
+                                                    521.1632080078125,
+                                                    148.73138427734375
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Document Note: This file is intentionally formatted with a colored logo header, clear footer, bold"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            148.885986328125,
+                                            422.5393371582031,
+                                            162.93138122558594
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "section headings, and paragraph-only body text for PDF translation testing.",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    148.885986328125,
+                                                    422.5393371582031,
+                                                    162.93138122558594
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "section headings, and paragraph-only body text for PDF translation testing."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b10",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                170.92498779296875,
+                                230.07501220703125,
+                                188.13748168945312
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            170.92498779296875,
+                                            230.07501220703125,
+                                            188.13748168945312
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 1: Program Overview",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    170.92498779296875,
+                                                    230.07501220703125,
+                                                    188.13748168945312
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 1: Program Overview"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b11",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                192.0350341796875,
+                                550.2026977539062,
+                                234.4498291015625
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            192.0350341796875,
+                                            529.8128662109375,
+                                            206.04983520507812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "The outreach team planned a two day neighborhood wellness event focused on preventive care, nutrition",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    192.0350341796875,
+                                                    529.8128662109375,
+                                                    206.04983520507812
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "The outreach team planned a two day neighborhood wellness event focused on preventive care, nutrition"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            206.2350311279297,
+                                            550.2026977539062,
+                                            220.2498321533203
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "guidance, and practical follow up support for families. The document explains the purpose of the program, the",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    206.2350311279297,
+                                                    550.2026977539062,
+                                                    220.2498321533203
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "guidance, and practical follow up support for families. The document explains the purpose of the program, the"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            220.43502807617188,
+                                            423.2330017089844,
+                                            234.4498291015625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "expected audience, and the communication tone used for public announcements.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    220.43502807617188,
+                                                    423.2330017089844,
+                                                    234.4498291015625
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "expected audience, and the communication tone used for public announcements."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b12",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                241.635009765625,
+                                555.2925415039062,
+                                284.0498046875
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            241.635009765625,
+                                            555.2925415039062,
+                                            255.64981079101562
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    241.635009765625,
+                                                    555.2925415039062,
+                                                    255.64981079101562
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            255.83499145507812,
+                                            540.0027465820312,
+                                            269.84979248046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    255.83499145507812,
+                                                    540.0027465820312,
+                                                    269.84979248046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            270.0350036621094,
+                                            231.56466674804688,
+                                            284.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    270.0350036621094,
+                                                    231.56466674804688,
+                                                    284.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b13",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                292.125,
+                                282.13751220703125,
+                                309.3374938964844
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            292.125,
+                                            282.13751220703125,
+                                            309.3374938964844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 2: Participant Communication",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    292.125,
+                                                    282.13751220703125,
+                                                    309.3374938964844
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 2: Participant Communication"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b14",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                313.2350158691406,
+                                545.092529296875,
+                                355.6498107910156
+                            ],
+                            "z_index": 14,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            313.2350158691406,
+                                            526.9365234375,
+                                            327.24981689453125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Residents receive plain language reminders through printed flyers, local partner emails, and short phone",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    313.2350158691406,
+                                                    526.9365234375,
+                                                    327.24981689453125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Residents receive plain language reminders through printed flyers, local partner emails, and short phone"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            327.43499755859375,
+                                            545.092529296875,
+                                            341.4497985839844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "messages. Each message encourages early registration, mentions available language support, and explains",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    327.43499755859375,
+                                                    545.092529296875,
+                                                    341.4497985839844
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "messages. Each message encourages early registration, mentions available language support, and explains"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            341.635009765625,
+                                            284.3088684082031,
+                                            355.6498107910156
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "that no clinical diagnosis is made during the event.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    341.635009765625,
+                                                    284.3088684082031,
+                                                    355.6498107910156
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "that no clinical diagnosis is made during the event."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p1_b15",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                362.83502197265625,
+                                555.2925415039062,
+                                405.24981689453125
+                            ],
+                            "z_index": 15,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            362.83502197265625,
+                                            555.2925415039062,
+                                            376.8498229980469
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    362.83502197265625,
+                                                    555.2925415039062,
+                                                    376.8498229980469
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            377.0350036621094,
+                                            540.0027465820312,
+                                            391.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    377.0350036621094,
+                                                    540.0027465820312,
+                                                    391.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            391.2350158691406,
+                                            231.56466674804688,
+                                            405.24981689453125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    391.2350158691406,
+                                                    231.56466674804688,
+                                                    405.24981689453125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "page_number": 2,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#0B6E4F",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    51.84002685546875
+                                ],
+                                "fill_color": "#0B6E4F",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    761.760009765625,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    51.400001525878906,
+                                    310.8000183105469,
+                                    560.6000366210938,
+                                    349.20001220703125
+                                ],
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                51.84002685546875
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#0B6E4F",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b2",
+                            "type": "vector_path",
+                            "bbox": [
+                                22.600000381469727,
+                                8.91998291015625,
+                                56.599998474121094,
+                                42.91998291015625
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "ops": [
+                                    "c",
+                                    "c",
+                                    "c",
+                                    "c"
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b3",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                761.760009765625,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F2F3F4",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b4",
+                            "type": "filled_rect",
+                            "bbox": [
+                                51.400001525878906,
+                                310.8000183105469,
+                                560.6000366210938,
+                                349.20001220703125
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5EEF8",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b5",
+                            "type": "text",
+                            "bbox": [
+                                33.10200119018555,
+                                9.129977226257324,
+                                572.4000244140625,
+                                31.9229736328125
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            33.10200119018555,
+                                            19.529972076416016,
+                                            46.09800338745117,
+                                            31.9229736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "AH",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.0,
+                                                "color": "#0B6E4F",
+                                                "bbox": [
+                                                    33.10200119018555,
+                                                    19.529972076416016,
+                                                    46.09800338745117,
+                                                    31.9229736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "AH"
+                                    },
+                                    {
+                                        "bbox": [
+                                            64.80000305175781,
+                                            9.129977226257324,
+                                            166.66798400878906,
+                                            27.03097915649414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Apex Healthcare",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    64.80000305175781,
+                                                    9.129977226257324,
+                                                    166.66798400878906,
+                                                    27.03097915649414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Apex Healthcare"
+                                    },
+                                    {
+                                        "bbox": [
+                                            476.3680114746094,
+                                            13.720006942749023,
+                                            572.4000244140625,
+                                            24.712007522583008
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Translation Test Document",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    476.3680114746094,
+                                                    13.720006942749023,
+                                                    572.4000244140625,
+                                                    24.712007522583008
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Translation Test Document"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b6",
+                            "type": "text",
+                            "bbox": [
+                                39.599998474121094,
+                                771.1600341796875,
+                                572.3999633789062,
+                                782.1520385742188
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            39.599998474121094,
+                                            771.1600341796875,
+                                            232.23997497558594,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Apex Healthcare — Paragraph-only sample",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    39.599998474121094,
+                                                    771.1600341796875,
+                                                    232.23997497558594,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Apex Healthcare — Paragraph-only sample"
+                                    },
+                                    {
+                                        "bbox": [
+                                            547.0479736328125,
+                                            771.1600341796875,
+                                            572.3999633789062,
+                                            782.1520385742188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 2",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#566573",
+                                                "bbox": [
+                                                    547.0479736328125,
+                                                    771.1600341796875,
+                                                    572.3999633789062,
+                                                    782.1520385742188
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b7",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                73.5250244140625,
+                                196.03750610351562,
+                                90.7375259399414
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            73.5250244140625,
+                                            196.03750610351562,
+                                            90.7375259399414
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 3: Service Flow",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    73.5250244140625,
+                                                    196.03750610351562,
+                                                    90.7375259399414
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 3: Service Flow"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b8",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                94.63499450683594,
+                                537.7178955078125,
+                                137.0498046875
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            94.63499450683594,
+                                            536.6060791015625,
+                                            108.64979553222656
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Visitors are welcomed at the entrance, directed to the correct station, and given a brief explanation of each",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    94.63499450683594,
+                                                    536.6060791015625,
+                                                    108.64979553222656
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Visitors are welcomed at the entrance, directed to the correct station, and given a brief explanation of each"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            108.83500671386719,
+                                            537.7178955078125,
+                                            122.84980010986328
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "optional service. Staff members document questions raised by residents so that the final report can identify",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    108.83500671386719,
+                                                    537.7178955078125,
+                                                    122.84980010986328
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "optional service. Staff members document questions raised by residents so that the final report can identify"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            123.03500366210938,
+                                            272.9562683105469,
+                                            137.0498046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "common concerns and improve future outreach.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    123.03500366210938,
+                                                    272.9562683105469,
+                                                    137.0498046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "common concerns and improve future outreach."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b9",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                144.2349853515625,
+                                555.2925415039062,
+                                186.6497802734375
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            144.2349853515625,
+                                            555.2925415039062,
+                                            158.24978637695312
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    144.2349853515625,
+                                                    555.2925415039062,
+                                                    158.24978637695312
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            158.4349822998047,
+                                            540.0027465820312,
+                                            172.4497833251953
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    158.4349822998047,
+                                                    540.0027465820312,
+                                                    172.4497833251953
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            172.63497924804688,
+                                            231.56466674804688,
+                                            186.6497802734375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    172.63497924804688,
+                                                    231.56466674804688,
+                                                    186.6497802734375
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b10",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                194.7249755859375,
+                                200.18751525878906,
+                                211.93746948242188
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            194.7249755859375,
+                                            200.18751525878906,
+                                            211.93746948242188
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 4: Quality Notes",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 12.5,
+                                                "color": "#145A32",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    194.7249755859375,
+                                                    200.18751525878906,
+                                                    211.93746948242188
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 4: Quality Notes"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b11",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                215.83502197265625,
+                                542.2874755859375,
+                                258.24981689453125
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            215.83502197265625,
+                                            536.5653076171875,
+                                            229.84982299804688
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "The program avoids crowded scheduling, keeps instructions visible, and uses consistent wording on signs.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    215.83502197265625,
+                                                    536.5653076171875,
+                                                    229.84982299804688
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "The program avoids crowded scheduling, keeps instructions visible, and uses consistent wording on signs."
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            230.03501892089844,
+                                            542.2874755859375,
+                                            244.04981994628906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "These details help translation tests because repeated headings, long paragraphs, and footer elements must",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    230.03501892089844,
+                                                    542.2874755859375,
+                                                    244.04981994628906
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "These details help translation tests because repeated headings, long paragraphs, and footer elements must"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            244.23501586914062,
+                                            209.46124267578125,
+                                            258.24981689453125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "remain readable after localization.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    244.23501586914062,
+                                                    209.46124267578125,
+                                                    258.24981689453125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "remain readable after localization."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b12",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                265.43499755859375,
+                                555.2925415039062,
+                                307.84979248046875
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            265.43499755859375,
+                                            555.2925415039062,
+                                            279.4497985839844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    265.43499755859375,
+                                                    555.2925415039062,
+                                                    279.4497985839844
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            279.6349792480469,
+                                            540.0027465820312,
+                                            293.6497802734375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    279.6349792480469,
+                                                    540.0027465820312,
+                                                    293.6497802734375
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            293.8349914550781,
+                                            231.56466674804688,
+                                            307.84979248046875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "placeholders, or identical sample lines.",
+                                                "font": "Helvetica",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#17202A",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    293.8349914550781,
+                                                    231.56466674804688,
+                                                    307.84979248046875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "placeholders, or identical sample lines."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpo_wntnuy.pdf_p2_b13",
+                            "type": "text",
+                            "bbox": [
+                                56.400001525878906,
+                                315.08599853515625,
+                                551.7734375,
+                                343.3314208984375
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            315.08599853515625,
+                                            551.7734375,
+                                            329.13140869140625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Closing Statement: The document ends with a concise paragraph to test final-block detection near the",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    315.08599853515625,
+                                                    551.7734375,
+                                                    329.13140869140625
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Closing Statement: The document ends with a concise paragraph to test final-block detection near the"
+                                    },
+                                    {
+                                        "bbox": [
+                                            56.400001525878906,
+                                            329.2860107421875,
+                                            111.94920349121094,
+                                            343.3314208984375
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "footer area.",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 10.199999809265137,
+                                                "color": "#884EA0",
+                                                "bbox": [
+                                                    56.400001525878906,
+                                                    329.2860107421875,
+                                                    111.94920349121094,
+                                                    343.3314208984375
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "footer area."
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "payload": []
+}

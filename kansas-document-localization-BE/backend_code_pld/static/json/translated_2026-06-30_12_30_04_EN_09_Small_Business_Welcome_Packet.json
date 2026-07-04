@@ -1,0 +1,1615 @@
+{
+  "documents": [
+    {
+      "document_metadata": {
+        "file_name": "tmp895ghb4c.pdf",
+        "total_pages": 2,
+        "source_type": "digital",
+        "processed_at": "2026-06-30T12:30:04"
+      },
+      "pages": [
+        {
+          "page_number": 1,
+          "dimensions": {
+            "width": 612.0,
+            "height": 792.0
+          },
+          "background": {
+            "color": "#117A65",
+            "image": null,
+            "regions": [
+              {
+                "bbox": [
+                  0.0,
+                  0.0,
+                  612.0,
+                  51.84002685546875
+                ],
+                "fill_color": "#117A65",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              },
+              {
+                "bbox": [
+                  0.0,
+                  761.760009765625,
+                  612.0,
+                  792.0
+                ],
+                "fill_color": "#F2F3F4",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              },
+              {
+                "bbox": [
+                  51.400001525878906,
+                  130.39999389648438,
+                  560.6000366210938,
+                  168.79998779296875
+                ],
+                "fill_color": "#F5EEF8",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            ]
+          },
+          "blocks": [
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b1",
+              "type": "filled_rect",
+              "bbox": [
+                0.0,
+                0.0,
+                612.0,
+                51.84002685546875
+              ],
+              "z_index": 1,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#117A65",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b2",
+              "type": "vector_path",
+              "bbox": [
+                22.600000381469727,
+                8.91998291015625,
+                56.599998474121094,
+                42.91998291015625
+              ],
+              "z_index": 2,
+              "rotation": 0,
+              "properties": {
+                "ops": [
+                  "c",
+                  "c",
+                  "c",
+                  "c"
+                ],
+                "fill_color": "#FFFFFF",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b3",
+              "type": "filled_rect",
+              "bbox": [
+                0.0,
+                761.760009765625,
+                612.0,
+                792.0
+              ],
+              "z_index": 3,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#F2F3F4",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b4",
+              "type": "filled_rect",
+              "bbox": [
+                51.400001525878906,
+                130.39999389648438,
+                560.6000366210938,
+                168.79998779296875
+              ],
+              "z_index": 4,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#F5EEF8",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b5",
+              "type": "text",
+              "bbox": [
+                33.60150146484375,
+                9.129977226257324,
+                572.4000244140625,
+                31.9229736328125
+              ],
+              "z_index": 5,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      33.60150146484375,
+                      19.529972076416016,
+                      45.59850311279297,
+                      31.9229736328125
+                    ],
+                    "spans": [
+                      {
+                        "text": "TR",
+                        "font": "Helvetica-Bold",
+                        "font_size": 9.0,
+                        "color": "#117A65",
+                        "bbox": [
+                          33.60150146484375,
+                          19.529972076416016,
+                          45.59850311279297,
+                          31.9229736328125
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "TR Documento de prueba de traducción TerraNova Research"
+                  },
+                  {
+                    "bbox": [
+                      64.80000305175781,
+                      9.129977226257324,
+                      191.2379913330078,
+                      27.03097915649414
+                    ],
+                    "spans": [
+                      {
+                        "text": "TerraNova Research",
+                        "font": "Helvetica-Bold",
+                        "font_size": 13.0,
+                        "color": "#FFFFFF",
+                        "bbox": [
+                          64.80000305175781,
+                          9.129977226257324,
+                          191.2379913330078,
+                          27.03097915649414
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      476.3680114746094,
+                      13.720006942749023,
+                      572.4000244140625,
+                      24.712007522583008
+                    ],
+                    "spans": [
+                      {
+                        "text": "Translation Test Document",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#FFFFFF",
+                        "bbox": [
+                          476.3680114746094,
+                          13.720006942749023,
+                          572.4000244140625,
+                          24.712007522583008
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b6",
+              "type": "text",
+              "bbox": [
+                39.599998474121094,
+                771.1600341796875,
+                572.3999633789062,
+                782.1520385742188
+              ],
+              "z_index": 6,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      39.599998474121094,
+                      771.1600341796875,
+                      247.34397888183594,
+                      782.1520385742188
+                    ],
+                    "spans": [
+                      {
+                        "text": "© 2026 — TerraNova Research — Paragraph-only sample",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#566573",
+                        "bbox": [
+                          39.599998474121094,
+                          771.1600341796875,
+                          247.34397888183594,
+                          782.1520385742188
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "© 2026 — TerraNova Research — Muestra de párrafo solo Página 1"
+                  },
+                  {
+                    "bbox": [
+                      547.0479736328125,
+                      771.1600341796875,
+                      572.3999633789062,
+                      782.1520385742188
+                    ],
+                    "spans": [
+                      {
+                        "text": "Page 1",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#566573",
+                        "bbox": [
+                          547.0479736328125,
+                          771.1600341796875,
+                          572.3999633789062,
+                          782.1520385742188
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b7",
+              "type": "text",
+              "bbox": [
+                137.49301147460938,
+                73.14002227783203,
+                474.5069885253906,
+                97.926025390625
+              ],
+              "z_index": 7,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      137.49301147460938,
+                      73.14002227783203,
+                      474.5069885253906,
+                      97.926025390625
+                    ],
+                    "spans": [
+                      {
+                        "text": "SMALL BUSINESS WELCOME PACKET",
+                        "font": "Helvetica-Bold",
+                        "font_size": 18.0,
+                        "color": "#1F2A44",
+                        "bbox": [
+                          137.49301147460938,
+                          73.14002227783203,
+                          474.5069885253906,
+                          97.926025390625
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "PAQUETE DE BIENVENIDA PARA EMPRESAS PEQUEÑAS"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b8",
+              "type": "text",
+              "bbox": [
+                163.53900146484375,
+                109.72502136230469,
+                448.4609375,
+                122.09102630615234
+              ],
+              "z_index": 8,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      163.53900146484375,
+                      109.72502136230469,
+                      448.4609375,
+                      122.09102630615234
+                    ],
+                    "spans": [
+                      {
+                        "text": "English version • Unique paragraph-only document • No tables included",
+                        "font": "Helvetica",
+                        "font_size": 9.0,
+                        "color": "#5D6D7E",
+                        "bbox": [
+                          163.53900146484375,
+                          109.72502136230469,
+                          448.4609375,
+                          122.09102630615234
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "Versión en inglés • Documento único con párrafos solo • No se incluyen tablas"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b9",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                134.6859893798828,
+                521.1632080078125,
+                162.93138122558594
+              ],
+              "z_index": 9,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      134.6859893798828,
+                      521.1632080078125,
+                      148.73138427734375
+                    ],
+                    "spans": [
+                      {
+                        "text": "Document Note: This file is intentionally formatted with a colored logo header, clear footer, bold",
+                        "font": "Helvetica-Bold",
+                        "font_size": 10.199999809265137,
+                        "color": "#884EA0",
+                        "bbox": [
+                          56.400001525878906,
+                          134.6859893798828,
+                          521.1632080078125,
+                          148.73138427734375
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Nota del documento: Este archivo está intencionadamente formateado con un encabezado de logotipo a color, pie de página claro, encabezados de sección en negrita y texto corporal solo de párrafos para pruebas de traducción de PDF."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      148.885986328125,
+                      422.5393371582031,
+                      162.93138122558594
+                    ],
+                    "spans": [
+                      {
+                        "text": "section headings, and paragraph-only body text for PDF translation testing.",
+                        "font": "Helvetica-Bold",
+                        "font_size": 10.199999809265137,
+                        "color": "#884EA0",
+                        "bbox": [
+                          56.400001525878906,
+                          148.885986328125,
+                          422.5393371582031,
+                          162.93138122558594
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b10",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                170.92498779296875,
+                220.3125,
+                188.13748168945312
+              ],
+              "z_index": 10,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      170.92498779296875,
+                      220.3125,
+                      188.13748168945312
+                    ],
+                    "spans": [
+                      {
+                        "text": "Section 1: Opening Context",
+                        "font": "Helvetica-Bold",
+                        "font_size": 12.5,
+                        "color": "#145A32",
+                        "bbox": [
+                          56.400001525878906,
+                          170.92498779296875,
+                          220.3125,
+                          188.13748168945312
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Sección 1: Contexto Inicial"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b11",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                192.0350341796875,
+                550.7330932617188,
+                234.4498291015625
+              ],
+              "z_index": 11,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      192.0350341796875,
+                      550.7330932617188,
+                      206.04983520507812
+                    ],
+                    "spans": [
+                      {
+                        "text": "This document presents a unique narrative about small business welcome packet with descriptive paragraphs",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          192.0350341796875,
+                          550.7330932617188,
+                          206.04983520507812
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "Este documento presenta una narrativa única sobre un paquete de bienvenida para pequeñas empresas con párrafos descriptivos preparados para pruebas de traducción. El diseño incluye encabezados personalizados, títulos de secciones en colores y texto de pie de página sin utilizar tablas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      206.2350311279297,
+                      537.17724609375,
+                      220.2498321533203
+                    ],
+                    "spans": [
+                      {
+                        "text": "prepared for translation testing. The layout includes branded headers, colored section titles, and footer text",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          206.2350311279297,
+                          537.17724609375,
+                          220.2498321533203
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      220.43502807617188,
+                      204.9222412109375,
+                      234.4498291015625
+                    ],
+                    "spans": [
+                      {
+                        "text": "while avoiding tables completely.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          220.43502807617188,
+                          204.9222412109375,
+                          234.4498291015625
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b12",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                241.635009765625,
+                555.2925415039062,
+                284.0498046875
+              ],
+              "z_index": 12,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      241.635009765625,
+                      555.2925415039062,
+                      255.64981079101562
+                    ],
+                    "spans": [
+                      {
+                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          241.635009765625,
+                          555.2925415039062,
+                          255.64981079101562
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "El texto adicional para revisar esta sección describe el comportamiento del documento, el espacio visual y la continuidad del contenido. El objetivo es verificar que una línea de procesamiento de traducción puede manejar prosa realista sin depender de tablas, marcadores repetidos o líneas de muestra idénticas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      255.83499145507812,
+                      540.0027465820312,
+                      269.84979248046875
+                    ],
+                    "spans": [
+                      {
+                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          255.83499145507812,
+                          540.0027465820312,
+                          269.84979248046875
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      270.0350036621094,
+                      231.56466674804688,
+                      284.0498046875
+                    ],
+                    "spans": [
+                      {
+                        "text": "placeholders, or identical sample lines.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          270.0350036621094,
+                          231.56466674804688,
+                          284.0498046875
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b13",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                292.125,
+                205.75001525878906,
+                309.3374938964844
+              ],
+              "z_index": 13,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      292.125,
+                      205.75001525878906,
+                      309.3374938964844
+                    ],
+                    "spans": [
+                      {
+                        "text": "Section 2: Main Narrative",
+                        "font": "Helvetica-Bold",
+                        "font_size": 12.5,
+                        "color": "#145A32",
+                        "bbox": [
+                          56.400001525878906,
+                          292.125,
+                          205.75001525878906,
+                          309.3374938964844
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Sección 2: Narrativa Principal"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b14",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                313.2350158691406,
+                547.3262939453125,
+                355.6498107910156
+              ],
+              "z_index": 14,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      313.2350158691406,
+                      532.0569458007812,
+                      327.24981689453125
+                    ],
+                    "spans": [
+                      {
+                        "text": "The content explains background, participant expectations, communication style, and review notes for the",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          313.2350158691406,
+                          532.0569458007812,
+                          327.24981689453125
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "El contenido explica el fondo, las expectativas de los participantes, el estilo de comunicación y las notas para revisar del paquete de bienvenida para pequeñas empresas. Cada oración se escribe con un vocabulario variado para que las pruebas de extracción repetida no dependan de líneas idénticas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      327.43499755859375,
+                      547.3262939453125,
+                      341.4497985839844
+                    ],
+                    "spans": [
+                      {
+                        "text": "small business welcome packet. Each sentence is written with varied vocabulary so repeated extraction tests",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          327.43499755859375,
+                          547.3262939453125,
+                          341.4497985839844
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      341.635009765625,
+                      185.09341430664062,
+                      355.6498107910156
+                    ],
+                    "spans": [
+                      {
+                        "text": "do not rely on identical lines.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          341.635009765625,
+                          185.09341430664062,
+                          355.6498107910156
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p1_b15",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                362.83502197265625,
+                555.2925415039062,
+                405.24981689453125
+              ],
+              "z_index": 15,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      362.83502197265625,
+                      555.2925415039062,
+                      376.8498229980469
+                    ],
+                    "spans": [
+                      {
+                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          362.83502197265625,
+                          555.2925415039062,
+                          376.8498229980469
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "El texto adicional para revisar en esta sección describe el comportamiento del documento, el espacio visual y la continuidad del contenido. El objetivo es verificar que una línea de procesamiento de traducción puede manejar prosa realista sin depender de tablas, marcadores repetidos o líneas de muestra idénticas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      377.0350036621094,
+                      540.0027465820312,
+                      391.0498046875
+                    ],
+                    "spans": [
+                      {
+                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          377.0350036621094,
+                          540.0027465820312,
+                          391.0498046875
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      391.2350158691406,
+                      231.56466674804688,
+                      405.24981689453125
+                    ],
+                    "spans": [
+                      {
+                        "text": "placeholders, or identical sample lines.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          391.2350158691406,
+                          231.56466674804688,
+                          405.24981689453125
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "page_number": 2,
+          "dimensions": {
+            "width": 612.0,
+            "height": 792.0
+          },
+          "background": {
+            "color": "#117A65",
+            "image": null,
+            "regions": [
+              {
+                "bbox": [
+                  0.0,
+                  0.0,
+                  612.0,
+                  51.84002685546875
+                ],
+                "fill_color": "#117A65",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              },
+              {
+                "bbox": [
+                  0.0,
+                  761.760009765625,
+                  612.0,
+                  792.0
+                ],
+                "fill_color": "#F2F3F4",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              },
+              {
+                "bbox": [
+                  51.400001525878906,
+                  282.3999938964844,
+                  560.6000366210938,
+                  320.79998779296875
+                ],
+                "fill_color": "#F5EEF8",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            ]
+          },
+          "blocks": [
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b1",
+              "type": "filled_rect",
+              "bbox": [
+                0.0,
+                0.0,
+                612.0,
+                51.84002685546875
+              ],
+              "z_index": 1,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#117A65",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b2",
+              "type": "vector_path",
+              "bbox": [
+                22.600000381469727,
+                8.91998291015625,
+                56.599998474121094,
+                42.91998291015625
+              ],
+              "z_index": 2,
+              "rotation": 0,
+              "properties": {
+                "ops": [
+                  "c",
+                  "c",
+                  "c",
+                  "c"
+                ],
+                "fill_color": "#FFFFFF",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b3",
+              "type": "filled_rect",
+              "bbox": [
+                0.0,
+                761.760009765625,
+                612.0,
+                792.0
+              ],
+              "z_index": 3,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#F2F3F4",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b4",
+              "type": "filled_rect",
+              "bbox": [
+                51.400001525878906,
+                282.3999938964844,
+                560.6000366210938,
+                320.79998779296875
+              ],
+              "z_index": 4,
+              "rotation": 0,
+              "properties": {
+                "fill_color": "#F5EEF8",
+                "stroke_color": null,
+                "stroke_width": null,
+                "fill_opacity": 1.0,
+                "stroke_opacity": null
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b5",
+              "type": "text",
+              "bbox": [
+                33.60150146484375,
+                9.129977226257324,
+                572.4000244140625,
+                31.9229736328125
+              ],
+              "z_index": 5,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      33.60150146484375,
+                      19.529972076416016,
+                      45.59850311279297,
+                      31.9229736328125
+                    ],
+                    "spans": [
+                      {
+                        "text": "TR",
+                        "font": "Helvetica-Bold",
+                        "font_size": 9.0,
+                        "color": "#117A65",
+                        "bbox": [
+                          33.60150146484375,
+                          19.529972076416016,
+                          45.59850311279297,
+                          31.9229736328125
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "TR TerraNova Research Translation Test Document"
+                  },
+                  {
+                    "bbox": [
+                      64.80000305175781,
+                      9.129977226257324,
+                      191.2379913330078,
+                      27.03097915649414
+                    ],
+                    "spans": [
+                      {
+                        "text": "TerraNova Research",
+                        "font": "Helvetica-Bold",
+                        "font_size": 13.0,
+                        "color": "#FFFFFF",
+                        "bbox": [
+                          64.80000305175781,
+                          9.129977226257324,
+                          191.2379913330078,
+                          27.03097915649414
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      476.3680114746094,
+                      13.720006942749023,
+                      572.4000244140625,
+                      24.712007522583008
+                    ],
+                    "spans": [
+                      {
+                        "text": "Translation Test Document",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#FFFFFF",
+                        "bbox": [
+                          476.3680114746094,
+                          13.720006942749023,
+                          572.4000244140625,
+                          24.712007522583008
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b6",
+              "type": "text",
+              "bbox": [
+                39.599998474121094,
+                771.1600341796875,
+                572.3999633789062,
+                782.1520385742188
+              ],
+              "z_index": 6,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      39.599998474121094,
+                      771.1600341796875,
+                      247.34397888183594,
+                      782.1520385742188
+                    ],
+                    "spans": [
+                      {
+                        "text": "© 2026 — TerraNova Research — Paragraph-only sample",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#566573",
+                        "bbox": [
+                          39.599998474121094,
+                          771.1600341796875,
+                          247.34397888183594,
+                          782.1520385742188
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "© 2026 — TerraNova Research — Muestra de párrafo solo Página 2"
+                  },
+                  {
+                    "bbox": [
+                      547.0479736328125,
+                      771.1600341796875,
+                      572.3999633789062,
+                      782.1520385742188
+                    ],
+                    "spans": [
+                      {
+                        "text": "Page 2",
+                        "font": "Helvetica",
+                        "font_size": 8.0,
+                        "color": "#566573",
+                        "bbox": [
+                          547.0479736328125,
+                          771.1600341796875,
+                          572.3999633789062,
+                          782.1520385742188
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b7",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                73.5250244140625,
+                226.5875244140625,
+                90.7375259399414
+              ],
+              "z_index": 7,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      73.5250244140625,
+                      226.5875244140625,
+                      90.7375259399414
+                    ],
+                    "spans": [
+                      {
+                        "text": "Section 3: Operational Detail",
+                        "font": "Helvetica-Bold",
+                        "font_size": 12.5,
+                        "color": "#145A32",
+                        "bbox": [
+                          56.400001525878906,
+                          73.5250244140625,
+                          226.5875244140625,
+                          90.7375259399414
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Sección 3: Detalle Operativo"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b8",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                94.63499450683594,
+                543.93994140625,
+                122.84978485107422
+              ],
+              "z_index": 8,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      94.63499450683594,
+                      543.93994140625,
+                      108.64978790283203
+                    ],
+                    "spans": [
+                      {
+                        "text": "Organizers document observations in paragraph form, including timing, location notes, visitor questions, and",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          94.63499450683594,
+                          543.93994140625,
+                          108.64978790283203
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "Los organizadores documentan observaciones en forma de párrafos, incluyendo timing, notas de ubicación, preguntas de visitantes e ideas para mejoras. Esta sección crea una densidad de texto realista a lo largo de dos páginas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      108.83499145507812,
+                      415.7972106933594,
+                      122.84978485107422
+                    ],
+                    "spans": [
+                      {
+                        "text": "improvement ideas. This section creates realistic text density across two pages.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          108.83499145507812,
+                          415.7972106933594,
+                          122.84978485107422
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b9",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                130.0350341796875,
+                555.2925415039062,
+                172.4498291015625
+              ],
+              "z_index": 9,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      130.0350341796875,
+                      555.2925415039062,
+                      144.04983520507812
+                    ],
+                    "spans": [
+                      {
+                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          130.0350341796875,
+                          555.2925415039062,
+                          144.04983520507812
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "El texto adicional de revisión para esta sección describe el comportamiento del documento, el espacio visual y la continuidad del contenido. El objetivo es verificar que una línea de procesamiento de traducción puede procesar prosa realista sin depender de tablas, marcadores repetidos o líneas de muestra idénticas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      144.2350311279297,
+                      540.0027465820312,
+                      158.2498321533203
+                    ],
+                    "spans": [
+                      {
+                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          144.2350311279297,
+                          540.0027465820312,
+                          158.2498321533203
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      158.43502807617188,
+                      231.56466674804688,
+                      172.4498291015625
+                    ],
+                    "spans": [
+                      {
+                        "text": "placeholders, or identical sample lines.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          158.43502807617188,
+                          231.56466674804688,
+                          172.4498291015625
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b10",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                180.5250244140625,
+                229.3500213623047,
+                197.73751831054688
+              ],
+              "z_index": 10,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      180.5250244140625,
+                      229.3500213623047,
+                      197.73751831054688
+                    ],
+                    "spans": [
+                      {
+                        "text": "Section 4: Closing Reflection",
+                        "font": "Helvetica-Bold",
+                        "font_size": 12.5,
+                        "color": "#145A32",
+                        "bbox": [
+                          56.400001525878906,
+                          180.5250244140625,
+                          229.3500213623047,
+                          197.73751831054688
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Sección 4: Reflexión Final"
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b11",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                201.63499450683594,
+                503.09906005859375,
+                229.84979248046875
+              ],
+              "z_index": 11,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      201.63499450683594,
+                      503.09906005859375,
+                      215.64979553222656
+                    ],
+                    "spans": [
+                      {
+                        "text": "The final remarks summarize lessons learned and identify the next revision cycle. The paragraph is",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          201.63499450683594,
+                          503.09906005859375,
+                          215.64979553222656
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "Los comentarios finales resumen las lecciones aprendidas e identifican el próximo ciclo de revisión. El párrafo es intencionalmente formal para parecerse a un documento empresarial, pero aún resulta fácil de traducir."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      215.83499145507812,
+                      485.5550537109375,
+                      229.84979248046875
+                    ],
+                    "spans": [
+                      {
+                        "text": "intentionally formal enough to resemble a business document while still being easy to translate.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          215.83499145507812,
+                          485.5550537109375,
+                          229.84979248046875
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b12",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                237.03500366210938,
+                555.2925415039062,
+                279.4497985839844
+              ],
+              "z_index": 12,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      237.03500366210938,
+                      555.2925415039062,
+                      251.0498046875
+                    ],
+                    "spans": [
+                      {
+                        "text": "Additional review text for this section describes document behavior, visual spacing, and content continuity. The",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          237.03500366210938,
+                          555.2925415039062,
+                          251.0498046875
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": "El texto adicional de revisión para esta sección describe el comportamiento del documento, el espacio visual y la continuidad del contenido. El objetivo es verificar que una cadena de traducción puede procesar prosa realista sin depender de tablas, marcadores repetidos o líneas de muestra idénticas."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      251.2349853515625,
+                      540.0027465820312,
+                      265.2497863769531
+                    ],
+                    "spans": [
+                      {
+                        "text": "goal is to verify that a translation pipeline can process realistic prose without depending on tables, repeated",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          251.2349853515625,
+                          540.0027465820312,
+                          265.2497863769531
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      265.43499755859375,
+                      231.56466674804688,
+                      279.4497985839844
+                    ],
+                    "spans": [
+                      {
+                        "text": "placeholders, or identical sample lines.",
+                        "font": "Helvetica",
+                        "font_size": 10.199999809265137,
+                        "color": "#17202A",
+                        "bbox": [
+                          56.400001525878906,
+                          265.43499755859375,
+                          231.56466674804688,
+                          279.4497985839844
+                        ],
+                        "flags": 0
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            },
+            {
+              "block_id": "tmp895ghb4c.pdf_p2_b13",
+              "type": "text",
+              "bbox": [
+                56.400001525878906,
+                286.68597412109375,
+                551.7734375,
+                314.931396484375
+              ],
+              "z_index": 13,
+              "rotation": 0,
+              "properties": {
+                "lines": [
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      286.68597412109375,
+                      551.7734375,
+                      300.73138427734375
+                    ],
+                    "spans": [
+                      {
+                        "text": "Closing Statement: The document ends with a concise paragraph to test final-block detection near the",
+                        "font": "Helvetica-Bold",
+                        "font_size": 10.199999809265137,
+                        "color": "#884EA0",
+                        "bbox": [
+                          56.400001525878906,
+                          286.68597412109375,
+                          551.7734375,
+                          300.73138427734375
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": "Declaración final: El documento termina con un párrafo conciso para probar la detección del bloque final en el área cercana al pie de página."
+                  },
+                  {
+                    "bbox": [
+                      56.400001525878906,
+                      300.885986328125,
+                      111.94920349121094,
+                      314.931396484375
+                    ],
+                    "spans": [
+                      {
+                        "text": "footer area.",
+                        "font": "Helvetica-Bold",
+                        "font_size": 10.199999809265137,
+                        "color": "#884EA0",
+                        "bbox": [
+                          56.400001525878906,
+                          300.885986328125,
+                          111.94920349121094,
+                          314.931396484375
+                        ],
+                        "flags": 16
+                      }
+                    ],
+                    "text": ""
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "payload": []
+}

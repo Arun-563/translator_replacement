@@ -1,0 +1,2868 @@
+{
+    "documents": [
+        {
+            "document_metadata": {
+                "file_name": "tmpzyf6quox.pdf",
+                "total_pages": 2,
+                "source_type": "digital",
+                "processed_at": "2026-06-29T12:47:34"
+            },
+            "pages": [
+                {
+                    "page_number": 1,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#1565C0",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    45.0
+                                ],
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    767.0,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    81.0,
+                                    490.0,
+                                    531.0,
+                                    512.0
+                                ],
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    81.0,
+                                    512.0,
+                                    531.0,
+                                    534.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    81.0,
+                                    534.0,
+                                    531.0,
+                                    556.0
+                                ],
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    81.0,
+                                    556.0,
+                                    531.0,
+                                    578.0
+                                ],
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    81.0,
+                                    578.0,
+                                    531.0,
+                                    600.0
+                                ],
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                45.0
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b2",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                767.0,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b3",
+                            "type": "line",
+                            "bbox": [
+                                61.0,
+                                116.0,
+                                551.0,
+                                116.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        61.0,
+                                        116.0,
+                                        551.0,
+                                        116.0
+                                    ]
+                                ],
+                                "stroke_color": "#1565C0",
+                                "stroke_width": 2.0,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b4",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                154.0,
+                                546.0,
+                                154.0
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        154.0,
+                                        546.0,
+                                        154.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b5",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                250.0,
+                                546.0,
+                                250.0
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        250.0,
+                                        546.0,
+                                        250.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b6",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                154.0,
+                                66.0,
+                                250.0
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        250.0,
+                                        66.0,
+                                        154.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b7",
+                            "type": "line",
+                            "bbox": [
+                                546.0,
+                                154.0,
+                                546.0,
+                                250.0
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        546.0,
+                                        250.0,
+                                        546.0,
+                                        154.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b8",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                178.0,
+                                546.0,
+                                178.0
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        178.0,
+                                        546.0,
+                                        178.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b9",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                202.0,
+                                546.0,
+                                202.0
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        202.0,
+                                        546.0,
+                                        202.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b10",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                226.0,
+                                546.0,
+                                226.0
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        226.0,
+                                        546.0,
+                                        226.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b11",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                154.0,
+                                306.0,
+                                250.0
+                            ],
+                            "z_index": 11,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        250.0,
+                                        306.0,
+                                        154.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b12",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                288.0,
+                                546.0,
+                                288.0
+                            ],
+                            "z_index": 12,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        288.0,
+                                        546.0,
+                                        288.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b13",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                336.0,
+                                546.0,
+                                336.0
+                            ],
+                            "z_index": 13,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        336.0,
+                                        546.0,
+                                        336.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b14",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                288.0,
+                                66.0,
+                                336.0
+                            ],
+                            "z_index": 14,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        336.0,
+                                        66.0,
+                                        288.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b15",
+                            "type": "line",
+                            "bbox": [
+                                546.0,
+                                288.0,
+                                546.0,
+                                336.0
+                            ],
+                            "z_index": 15,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        546.0,
+                                        336.0,
+                                        546.0,
+                                        288.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b16",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                312.0,
+                                546.0,
+                                312.0
+                            ],
+                            "z_index": 16,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        312.0,
+                                        546.0,
+                                        312.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b17",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                288.0,
+                                306.0,
+                                336.0
+                            ],
+                            "z_index": 17,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        336.0,
+                                        306.0,
+                                        288.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b18",
+                            "type": "filled_rect",
+                            "bbox": [
+                                81.0,
+                                490.0,
+                                531.0,
+                                512.0
+                            ],
+                            "z_index": 18,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b19",
+                            "type": "filled_rect",
+                            "bbox": [
+                                81.0,
+                                512.0,
+                                531.0,
+                                534.0
+                            ],
+                            "z_index": 19,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b20",
+                            "type": "filled_rect",
+                            "bbox": [
+                                81.0,
+                                534.0,
+                                531.0,
+                                556.0
+                            ],
+                            "z_index": 20,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b21",
+                            "type": "filled_rect",
+                            "bbox": [
+                                81.0,
+                                556.0,
+                                531.0,
+                                578.0
+                            ],
+                            "z_index": 21,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#FFFFFF",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b22",
+                            "type": "filled_rect",
+                            "bbox": [
+                                81.0,
+                                578.0,
+                                531.0,
+                                600.0
+                            ],
+                            "z_index": 22,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#F5F5F5",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b23",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                490.0,
+                                531.0,
+                                490.0
+                            ],
+                            "z_index": 23,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        490.0,
+                                        531.0,
+                                        490.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b24",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                600.0,
+                                531.0,
+                                600.0
+                            ],
+                            "z_index": 24,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        600.0,
+                                        531.0,
+                                        600.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b25",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                490.0,
+                                81.0,
+                                600.0
+                            ],
+                            "z_index": 25,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        600.0,
+                                        81.0,
+                                        490.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b26",
+                            "type": "line",
+                            "bbox": [
+                                531.0,
+                                490.0,
+                                531.0,
+                                600.0
+                            ],
+                            "z_index": 26,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        531.0,
+                                        600.0,
+                                        531.0,
+                                        490.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b27",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                512.0,
+                                531.0,
+                                512.0
+                            ],
+                            "z_index": 27,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        512.0,
+                                        531.0,
+                                        512.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b28",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                534.0,
+                                531.0,
+                                534.0
+                            ],
+                            "z_index": 28,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        534.0,
+                                        531.0,
+                                        534.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b29",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                556.0,
+                                531.0,
+                                556.0
+                            ],
+                            "z_index": 29,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        556.0,
+                                        531.0,
+                                        556.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b30",
+                            "type": "line",
+                            "bbox": [
+                                81.0,
+                                578.0,
+                                531.0,
+                                578.0
+                            ],
+                            "z_index": 30,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        81.0,
+                                        578.0,
+                                        531.0,
+                                        578.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b31",
+                            "type": "line",
+                            "bbox": [
+                                241.0,
+                                490.0,
+                                241.0,
+                                600.0
+                            ],
+                            "z_index": 31,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        241.0,
+                                        600.0,
+                                        241.0,
+                                        490.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b32",
+                            "type": "line",
+                            "bbox": [
+                                431.0,
+                                490.0,
+                                431.0,
+                                600.0
+                            ],
+                            "z_index": 32,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        431.0,
+                                        600.0,
+                                        431.0,
+                                        490.0
+                                    ]
+                                ],
+                                "stroke_color": "#808080",
+                                "stroke_width": 0.5,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b33",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                638.0,
+                                546.0,
+                                638.0
+                            ],
+                            "z_index": 33,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        638.0,
+                                        546.0,
+                                        638.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b34",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                686.0,
+                                546.0,
+                                686.0
+                            ],
+                            "z_index": 34,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        686.0,
+                                        546.0,
+                                        686.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b35",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                638.0,
+                                66.0,
+                                686.0
+                            ],
+                            "z_index": 35,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        686.0,
+                                        66.0,
+                                        638.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b36",
+                            "type": "line",
+                            "bbox": [
+                                546.0,
+                                638.0,
+                                546.0,
+                                686.0
+                            ],
+                            "z_index": 36,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        546.0,
+                                        686.0,
+                                        546.0,
+                                        638.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b37",
+                            "type": "line",
+                            "bbox": [
+                                66.0,
+                                662.0,
+                                546.0,
+                                662.0
+                            ],
+                            "z_index": 37,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        66.0,
+                                        662.0,
+                                        546.0,
+                                        662.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b38",
+                            "type": "line",
+                            "bbox": [
+                                306.0,
+                                638.0,
+                                306.0,
+                                686.0
+                            ],
+                            "z_index": 38,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        306.0,
+                                        686.0,
+                                        306.0,
+                                        638.0
+                                    ]
+                                ],
+                                "stroke_color": "#D3D3D3",
+                                "stroke_width": 0.30000001192092896,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b39",
+                            "type": "table",
+                            "bbox": [
+                                66.0,
+                                154.0,
+                                546.0,
+                                250.0
+                            ],
+                            "z_index": 39,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 1,
+                                "row_count": 4,
+                                "column_count": 2,
+                                "data": [
+                                    [
+                                        "Policyholder Name: Nathan R. Brooks",
+                                        "Policy Number: GSI-AUTO-2024-77412"
+                                    ],
+                                    [
+                                        "Date of Birth: June 22, 1988",
+                                        "Phone: +1 (704) 331-8847"
+                                    ],
+                                    [
+                                        "Email: n.brooks88@outlook.com",
+                                        "Address: 4210 Providence Rd, Charlotte, NC 28211"
+                                    ],
+                                    [
+                                        "Policy Type: Comprehensive Auto Insurance",
+                                        "Coverage Period: Feb 1, 2026 — Jan 31, 2027"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            66.0,
+                                            154.0,
+                                            306.0,
+                                            178.0
+                                        ],
+                                        [
+                                            66.0,
+                                            178.0,
+                                            306.0,
+                                            202.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            66.0,
+                                            202.0,
+                                            306.0,
+                                            226.0
+                                        ],
+                                        [
+                                            66.0,
+                                            226.0,
+                                            306.0,
+                                            250.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            154.0,
+                                            546.0,
+                                            178.0
+                                        ],
+                                        [
+                                            306.0,
+                                            178.0,
+                                            546.0,
+                                            202.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            202.0,
+                                            546.0,
+                                            226.0
+                                        ],
+                                        [
+                                            306.0,
+                                            226.0,
+                                            546.0,
+                                            250.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        66.0,
+                                        154.0,
+                                        306.0,
+                                        202.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Policyholder Name: Nathan R. Brooks",
+                                        "Policy Number: GSI-AUTO-2024-77412"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b40",
+                            "type": "table",
+                            "bbox": [
+                                66.0,
+                                288.0,
+                                546.0,
+                                336.0
+                            ],
+                            "z_index": 40,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 2,
+                                "row_count": 2,
+                                "column_count": 2,
+                                "data": [
+                                    [
+                                        "Date of Incident: May 14, 2026",
+                                        "Time of Incident: Approx. 7:45 AM"
+                                    ],
+                                    [
+                                        "Location: Intersection of Trade St & College St, Charlotte,",
+                                        "NPColice Report Filed: I Yes — Report #CPD-2026-05-14-3"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            66.0,
+                                            288.0,
+                                            306.0,
+                                            312.0
+                                        ],
+                                        [
+                                            66.0,
+                                            312.0,
+                                            306.0,
+                                            336.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            288.0,
+                                            546.0,
+                                            312.0
+                                        ],
+                                        [
+                                            306.0,
+                                            312.0,
+                                            546.0,
+                                            336.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        66.0,
+                                        288.0,
+                                        306.0,
+                                        336.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Date of Incident: May 14, 2026",
+                                        "Time of Incident: Approx. 7:45 AM"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b41",
+                            "type": "table",
+                            "bbox": [
+                                81.0,
+                                490.0,
+                                531.0,
+                                600.0
+                            ],
+                            "z_index": 41,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 3,
+                                "row_count": 5,
+                                "column_count": 3,
+                                "data": [
+                                    [
+                                        "Item / Property",
+                                        "Description of Damage",
+                                        "Estimated Cost"
+                                    ],
+                                    [
+                                        "2023 Honda Accord (VIN: 1HG...8847)",
+                                        "Front bumper crushed, headlight shattered, fe",
+                                        "nd$e4r, 8d5e0n.t0e0d"
+                                    ],
+                                    [
+                                        "Passenger medical (whiplash)",
+                                        "ER visit, X-ray, neck brace, follow-up",
+                                        "$1,275.00"
+                                    ],
+                                    [
+                                        "Rental car (7 days)",
+                                        "Enterprise Rent-A-Car during repair",
+                                        "$385.00"
+                                    ],
+                                    [
+                                        "Total Estimated Claim",
+                                        "",
+                                        "$6,510.00"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            81.0,
+                                            490.0,
+                                            241.0,
+                                            512.0
+                                        ],
+                                        [
+                                            81.0,
+                                            512.0,
+                                            241.0,
+                                            534.0
+                                        ],
+                                        [
+                                            81.0,
+                                            534.0,
+                                            241.0,
+                                            556.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            81.0,
+                                            556.0,
+                                            241.0,
+                                            578.0
+                                        ],
+                                        [
+                                            81.0,
+                                            578.0,
+                                            241.0,
+                                            600.0
+                                        ],
+                                        [
+                                            241.0,
+                                            490.0,
+                                            431.0,
+                                            512.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            241.0,
+                                            512.0,
+                                            431.0,
+                                            534.0
+                                        ],
+                                        [
+                                            241.0,
+                                            534.0,
+                                            431.0,
+                                            556.0
+                                        ],
+                                        [
+                                            241.0,
+                                            556.0,
+                                            431.0,
+                                            578.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            241.0,
+                                            578.0,
+                                            431.0,
+                                            600.0
+                                        ],
+                                        [
+                                            431.0,
+                                            490.0,
+                                            531.0,
+                                            512.0
+                                        ],
+                                        [
+                                            431.0,
+                                            512.0,
+                                            531.0,
+                                            534.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            431.0,
+                                            534.0,
+                                            531.0,
+                                            556.0
+                                        ],
+                                        [
+                                            431.0,
+                                            556.0,
+                                            531.0,
+                                            578.0
+                                        ],
+                                        [
+                                            431.0,
+                                            578.0,
+                                            531.0,
+                                            600.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        81.0,
+                                        490.0,
+                                        241.0,
+                                        556.0
+                                    ],
+                                    "fill_color": "#1565C0",
+                                    "texts": [
+                                        "Item / Property",
+                                        "Description of Damage",
+                                        "Estimated Cost"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b42",
+                            "type": "table",
+                            "bbox": [
+                                66.0,
+                                638.0,
+                                546.0,
+                                686.0
+                            ],
+                            "z_index": 42,
+                            "rotation": 0,
+                            "properties": {
+                                "table_index": 4,
+                                "row_count": 2,
+                                "column_count": 2,
+                                "data": [
+                                    [
+                                        "Other Driver Name: Marcus T. Jennings",
+                                        "Other Driver Phone: +1 (704) 555-6621"
+                                    ],
+                                    [
+                                        "Other Vehicle: 2021 Ford F-150, Silver, Plate: NC-BTR-44",
+                                        "29Other Insurance: SafeWay Auto Insurance, Policy #SWA-"
+                                    ]
+                                ],
+                                "cell_bboxes": [
+                                    [
+                                        [
+                                            66.0,
+                                            638.0,
+                                            306.0,
+                                            662.0
+                                        ],
+                                        [
+                                            66.0,
+                                            662.0,
+                                            306.0,
+                                            686.0
+                                        ]
+                                    ],
+                                    [
+                                        [
+                                            306.0,
+                                            638.0,
+                                            546.0,
+                                            662.0
+                                        ],
+                                        [
+                                            306.0,
+                                            662.0,
+                                            546.0,
+                                            686.0
+                                        ]
+                                    ]
+                                ],
+                                "header": {
+                                    "bbox": [
+                                        66.0,
+                                        638.0,
+                                        306.0,
+                                        686.0
+                                    ],
+                                    "fill_color": null,
+                                    "texts": [
+                                        "Other Driver Name: Marcus T. Jennings",
+                                        "Other Driver Phone: +1 (704) 555-6621"
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b43",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                16.09000015258789,
+                                552.0,
+                                33.99100112915039
+                            ],
+                            "z_index": 43,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            16.09000015258789,
+                                            224.7229461669922,
+                                            33.99100112915039
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Guardian Shield Insurance",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    16.09000015258789,
+                                                    224.7229461669922,
+                                                    33.99100112915039
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Guardian Shield Insurance"
+                                    },
+                                    {
+                                        "bbox": [
+                                            473.32000732421875,
+                                            19.399999618530273,
+                                            552.0,
+                                            30.392000198364258
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Insurance Claim Form",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    473.32000732421875,
+                                                    19.399999618530273,
+                                                    552.0,
+                                                    30.392000198364258
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Insurance Claim Form"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b44",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                776.4749755859375,
+                                552.0001220703125,
+                                786.093017578125
+                            ],
+                            "z_index": 44,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            776.4749755859375,
+                                            141.39598083496094,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Claims Division",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    776.4749755859375,
+                                                    141.39598083496094,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Claims Division"
+                                    },
+                                    {
+                                        "bbox": [
+                                            529.8170166015625,
+                                            776.4749755859375,
+                                            552.0001220703125,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 1",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    529.8170166015625,
+                                                    776.4749755859375,
+                                                    552.0001220703125,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 1"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b45",
+                            "type": "text",
+                            "bbox": [
+                                179.89999389648438,
+                                66.5999984741211,
+                                432.1000061035156,
+                                94.13999938964844
+                            ],
+                            "z_index": 45,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            179.89999389648438,
+                                            66.5999984741211,
+                                            432.1000061035156,
+                                            94.13999938964844
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "INSURANCE CLAIM FORM",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 20.0,
+                                                "color": "#1A1A2E",
+                                                "bbox": [
+                                                    179.89999389648438,
+                                                    66.5999984741211,
+                                                    432.1000061035156,
+                                                    94.13999938964844
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "INSURANCE CLAIM FORM"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b46",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                95.2874984741211,
+                                313.1869812011719,
+                                108.34049987792969
+                            ],
+                            "z_index": 46,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            95.2874984741211,
+                                            313.1869812011719,
+                                            108.34049987792969
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Guardian Shield Insurance Co. | Claims Processing Division",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    95.2874984741211,
+                                                    313.1869812011719,
+                                                    108.34049987792969
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Guardian Shield Insurance Co. | Claims Processing Division"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b47",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                127.0199966430664,
+                                296.7179870605469,
+                                146.29800415039062
+                            ],
+                            "z_index": 47,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            127.0199966430664,
+                                            296.7179870605469,
+                                            146.29800415039062
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 1: Policyholder Information",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    127.0199966430664,
+                                                    296.7179870605469,
+                                                    146.29800415039062
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 1: Policyholder Information"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b48",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                261.0199890136719,
+                                235.27200317382812,
+                                280.2980041503906
+                            ],
+                            "z_index": 48,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            261.0199890136719,
+                                            235.27200317382812,
+                                            280.2980041503906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 2: Incident Details",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    261.0199890136719,
+                                                    235.27200317382812,
+                                                    280.2980041503906
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 2: Incident Details"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b49",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                347.0199890136719,
+                                283.4880065917969,
+                                366.2980041503906
+                            ],
+                            "z_index": 49,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            347.0199890136719,
+                                            283.4880065917969,
+                                            366.2980041503906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 3: Description of Incident",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    347.0199890136719,
+                                                    283.4880065917969,
+                                                    366.2980041503906
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 3: Description of Incident"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b50",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                373.2875061035156,
+                                548.9107666015625,
+                                451.34051513671875
+                            ],
+                            "z_index": 50,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            373.2875061035156,
+                                            527.2696533203125,
+                                            386.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "On the morning of May 14, 2026, while driving eastbound on Trade Street, another vehicle ran a red light at the",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    373.2875061035156,
+                                                    527.2696533203125,
+                                                    386.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "On the morning of May 14, 2026, while driving eastbound on Trade Street, another vehicle ran a red light at the"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            386.2875061035156,
+                                            548.8822631835938,
+                                            399.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "intersection of College Street and collided with the front passenger side of my vehicle. The impact caused significant",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    386.2875061035156,
+                                                    548.8822631835938,
+                                                    399.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "intersection of College Street and collided with the front passenger side of my vehicle. The impact caused significant"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            399.2875061035156,
+                                            548.9107666015625,
+                                            412.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "damage to the front bumper, right headlight assembly, and passenger-side fender. The airbags did not deploy. I was",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    399.2875061035156,
+                                                    548.9107666015625,
+                                                    412.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "damage to the front bumper, right headlight assembly, and passenger-side fender. The airbags did not deploy. I was"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            412.2875061035156,
+                                            535.6582641601562,
+                                            425.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "wearing my seatbelt and did not sustain any physical injuries; however, my passenger experienced mild whiplash",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    412.2875061035156,
+                                                    535.6582641601562,
+                                                    425.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "wearing my seatbelt and did not sustain any physical injuries; however, my passenger experienced mild whiplash"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            425.2875061035156,
+                                            531.981689453125,
+                                            438.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "and was examined at Atrium Health Emergency Department the same day. The other driver admitted fault at the",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    425.2875061035156,
+                                                    531.981689453125,
+                                                    438.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "and was examined at Atrium Health Emergency Department the same day. The other driver admitted fault at the"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            438.2875061035156,
+                                            427.96612548828125,
+                                            451.34051513671875
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "scene, and the incident was documented by Charlotte-Mecklenburg Police Department.",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    438.2875061035156,
+                                                    427.96612548828125,
+                                                    451.34051513671875
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "scene, and the incident was documented by Charlotte-Mecklenburg Police Department."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b51",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                463.0199890136719,
+                                280.40802001953125,
+                                482.2980041503906
+                            ],
+                            "z_index": 51,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            463.0199890136719,
+                                            280.40802001953125,
+                                            482.2980041503906
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 4: Damage / Loss Details",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    463.0199890136719,
+                                                    280.40802001953125,
+                                                    482.2980041503906
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 4: Damage / Loss Details"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b52",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                611.02001953125,
+                                287.3659973144531,
+                                630.2979736328125
+                            ],
+                            "z_index": 52,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            611.02001953125,
+                                            287.3659973144531,
+                                            630.2979736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 5: Third-Party Information",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    611.02001953125,
+                                                    287.3659973144531,
+                                                    630.2979736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 5: Third-Party Information"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p1_b53",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                697.02001953125,
+                                350.365966796875,
+                                716.2979736328125
+                            ],
+                            "z_index": 53,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            697.02001953125,
+                                            350.365966796875,
+                                            716.2979736328125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 6: Supporting Documents Attached",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    697.02001953125,
+                                                    350.365966796875,
+                                                    716.2979736328125
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 6: Supporting Documents Attached"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "page_number": 2,
+                    "dimensions": {
+                        "width": 612.0,
+                        "height": 792.0
+                    },
+                    "background": {
+                        "color": "#1565C0",
+                        "image": null,
+                        "regions": [
+                            {
+                                "bbox": [
+                                    0.0,
+                                    0.0,
+                                    612.0,
+                                    45.0
+                                ],
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            },
+                            {
+                                "bbox": [
+                                    0.0,
+                                    767.0,
+                                    612.0,
+                                    792.0
+                                ],
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        ]
+                    },
+                    "blocks": [
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b1",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                0.0,
+                                612.0,
+                                45.0
+                            ],
+                            "z_index": 1,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b2",
+                            "type": "filled_rect",
+                            "bbox": [
+                                0.0,
+                                767.0,
+                                612.0,
+                                792.0
+                            ],
+                            "z_index": 2,
+                            "rotation": 0,
+                            "properties": {
+                                "fill_color": "#1565C0",
+                                "stroke_color": null,
+                                "stroke_width": null,
+                                "fill_opacity": 1.0,
+                                "stroke_opacity": null
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b3",
+                            "type": "line",
+                            "bbox": [
+                                61.0,
+                                212.0,
+                                551.0,
+                                212.0
+                            ],
+                            "z_index": 3,
+                            "rotation": 0,
+                            "properties": {
+                                "segments": [
+                                    [
+                                        61.0,
+                                        212.0,
+                                        551.0,
+                                        212.0
+                                    ]
+                                ],
+                                "stroke_color": "#1565C0",
+                                "stroke_width": 1.0,
+                                "stroke_opacity": 1.0
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b4",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                16.09000015258789,
+                                552.0,
+                                33.99100112915039
+                            ],
+                            "z_index": 4,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            16.09000015258789,
+                                            224.7229461669922,
+                                            33.99100112915039
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Guardian Shield Insurance",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 13.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    16.09000015258789,
+                                                    224.7229461669922,
+                                                    33.99100112915039
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Guardian Shield Insurance"
+                                    },
+                                    {
+                                        "bbox": [
+                                            473.32000732421875,
+                                            19.399999618530273,
+                                            552.0,
+                                            30.392000198364258
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Insurance Claim Form",
+                                                "font": "Helvetica",
+                                                "font_size": 8.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    473.32000732421875,
+                                                    19.399999618530273,
+                                                    552.0,
+                                                    30.392000198364258
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Insurance Claim Form"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b5",
+                            "type": "text",
+                            "bbox": [
+                                60.0,
+                                776.4749755859375,
+                                552.0001220703125,
+                                786.093017578125
+                            ],
+                            "z_index": 5,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            60.0,
+                                            776.4749755859375,
+                                            141.39598083496094,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "© 2026 — Claims Division",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    60.0,
+                                                    776.4749755859375,
+                                                    141.39598083496094,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "© 2026 — Claims Division"
+                                    },
+                                    {
+                                        "bbox": [
+                                            529.8170166015625,
+                                            776.4749755859375,
+                                            552.0001220703125,
+                                            786.093017578125
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Page 2",
+                                                "font": "Helvetica",
+                                                "font_size": 7.0,
+                                                "color": "#FFFFFF",
+                                                "bbox": [
+                                                    529.8170166015625,
+                                                    776.4749755859375,
+                                                    552.0001220703125,
+                                                    786.093017578125
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Page 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b6",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                67.2874984741211,
+                                551.000244140625,
+                                93.34049987792969
+                            ],
+                            "z_index": 6,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            67.2874984741211,
+                                            551.000244140625,
+                                            80.34049987792969
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    69.42056274414062,
+                                                    68.22949981689453,
+                                                    78.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Police Report ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    68.22949981689453,
+                                                    67.2874984741211,
+                                                    130.3734588623047,
+                                                    80.34049987792969
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    130.294921875,
+                                                    69.42056274414062,
+                                                    137.52442932128906,
+                                                    78.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Photos of Damage (12 images) ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    137.52442932128906,
+                                                    67.2874984741211,
+                                                    273.8842468261719,
+                                                    80.34049987792969
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    273.80572509765625,
+                                                    69.42056274414062,
+                                                    281.03521728515625,
+                                                    78.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Medical Records ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    281.0352478027344,
+                                                    67.2874984741211,
+                                                    356.8972473144531,
+                                                    80.34049987792969
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    356.8187255859375,
+                                                    69.42056274414062,
+                                                    364.0482177734375,
+                                                    78.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Repair Estimate (Joe's Auto Body) ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    364.0482177734375,
+                                                    67.2874984741211,
+                                                    513.8317260742188,
+                                                    80.34049987792969
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    513.753173828125,
+                                                    69.42056274414062,
+                                                    520.982666015625,
+                                                    78.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Rental",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    520.982666015625,
+                                                    67.2874984741211,
+                                                    551.000244140625,
+                                                    80.34049987792969
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "I Police Report I Photos of Damage (12 images) I Medical Records I Repair Estimate (Joe's Auto Body) I Rental"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            80.2874984741211,
+                                            208.13600158691406,
+                                            93.34049987792969
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Car Receipt ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    80.2874984741211,
+                                                    113.79150390625,
+                                                    93.34049987792969
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    113.79150390625,
+                                                    82.42056274414062,
+                                                    121.02100372314453,
+                                                    91.92056274414062
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Witness Statements",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    121.02100372314453,
+                                                    80.2874984741211,
+                                                    208.13600158691406,
+                                                    93.34049987792969
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Car Receipt I Witness Statements"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b7",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                105.0199966430664,
+                                208.04202270507812,
+                                124.29800415039062
+                            ],
+                            "z_index": 7,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            105.0199966430664,
+                                            208.04202270507812,
+                                            124.29800415039062
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Section 7: Declaration",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 14.0,
+                                                "color": "#0D47A1",
+                                                "bbox": [
+                                                    61.0,
+                                                    105.0199966430664,
+                                                    208.04202270507812,
+                                                    124.29800415039062
+                                                ],
+                                                "flags": 16
+                                            }
+                                        ],
+                                        "text": "Section 7: Declaration"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b8",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                131.28750610351562,
+                                549.395263671875,
+                                183.3404998779297
+                            ],
+                            "z_index": 8,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            131.28750610351562,
+                                            529.8822021484375,
+                                            144.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I certify that the information provided in this claim is true, accurate, and complete. I understand that submitting a",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    131.28750610351562,
+                                                    529.8822021484375,
+                                                    144.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "I certify that the information provided in this claim is true, accurate, and complete. I understand that submitting a"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            144.28750610351562,
+                                            549.395263671875,
+                                            157.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "fraudulent claim is a criminal offense and may result in denial of the claim, policy cancellation, and legal prosecution.",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    144.28750610351562,
+                                                    549.395263671875,
+                                                    157.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "fraudulent claim is a criminal offense and may result in denial of the claim, policy cancellation, and legal prosecution."
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            157.28750610351562,
+                                            544.1227416992188,
+                                            170.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I authorize Guardian Shield Insurance to investigate this claim, obtain relevant records, and communicate with third",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    157.28750610351562,
+                                                    544.1227416992188,
+                                                    170.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "I authorize Guardian Shield Insurance to investigate this claim, obtain relevant records, and communicate with third"
+                                    },
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            170.28750610351562,
+                                            239.44798278808594,
+                                            183.3404998779297
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "parties as necessary to process this claim.",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    170.28750610351562,
+                                                    239.44798278808594,
+                                                    183.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "parties as necessary to process this claim."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b9",
+                            "type": "text",
+                            "bbox": [
+                                61.0,
+                                192.28750610351562,
+                                331.84503173828125,
+                                205.41650390625
+                            ],
+                            "z_index": 9,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            61.0,
+                                            192.28750610351562,
+                                            331.84503173828125,
+                                            205.41650390625
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Policyholder Signature:",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    61.0,
+                                                    192.33499145507812,
+                                                    167.6374969482422,
+                                                    205.41650390625
+                                                ],
+                                                "flags": 16
+                                            },
+                                            {
+                                                "text": " ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    167.63748168945312,
+                                                    192.28750610351562,
+                                                    170.2784881591797,
+                                                    205.3404998779297
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "Nathan R. Brooks",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    170.2784881591797,
+                                                    192.33499145507812,
+                                                    245.2524871826172,
+                                                    205.197998046875
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": " ",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    245.2524871826172,
+                                                    192.28750610351562,
+                                                    247.89349365234375,
+                                                    205.3404998779297
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": "Date:",
+                                                "font": "Helvetica-Bold",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    247.89349365234375,
+                                                    192.33499145507812,
+                                                    271.64349365234375,
+                                                    205.41650390625
+                                                ],
+                                                "flags": 16
+                                            },
+                                            {
+                                                "text": " May 16, 2026",
+                                                "font": "Helvetica",
+                                                "font_size": 9.5,
+                                                "color": "#000000",
+                                                "bbox": [
+                                                    271.64349365234375,
+                                                    192.28750610351562,
+                                                    331.84503173828125,
+                                                    205.3404998779297
+                                                ],
+                                                "flags": 0
+                                            }
+                                        ],
+                                        "text": "Policyholder Signature: Nathan R. Brooks Date: May 16, 2026"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "block_id": "tmpzyf6quox.pdf_p2_b10",
+                            "type": "text",
+                            "bbox": [
+                                63.14799880981445,
+                                215.44000244140625,
+                                548.8519287109375,
+                                238.27200317382812
+                            ],
+                            "z_index": 10,
+                            "rotation": 0,
+                            "properties": {
+                                "lines": [
+                                    {
+                                        "bbox": [
+                                            63.14799880981445,
+                                            215.44000244140625,
+                                            548.8519287109375,
+                                            226.27200317382812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "Claims Dept — Claim ID: CLM-2026-0516-8847 | Received: 05/16/2026 | Adjuster: Patricia Gomez | Status: ",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    63.14799880981445,
+                                                    215.44000244140625,
+                                                    445.53192138671875,
+                                                    226.27200317382812
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    445.53192138671875,
+                                                    217.19625854492188,
+                                                    451.61993408203125,
+                                                    225.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Under Review ",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    451.61993408203125,
+                                                    215.44000244140625,
+                                                    506.2999267578125,
+                                                    226.27200317382812
+                                                ],
+                                                "flags": 2
+                                            },
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    506.2999267578125,
+                                                    217.19625854492188,
+                                                    512.387939453125,
+                                                    225.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Approved",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    512.387939453125,
+                                                    215.44000244140625,
+                                                    548.8519287109375,
+                                                    226.27200317382812
+                                                ],
+                                                "flags": 2
+                                            }
+                                        ],
+                                        "text": "Claims Dept — Claim ID: CLM-2026-0516-8847 | Received: 05/16/2026 | Adjuster: Patricia Gomez | Status: I Under Review I Approved"
+                                    },
+                                    {
+                                        "bbox": [
+                                            289.1719970703125,
+                                            227.44000244140625,
+                                            322.8280029296875,
+                                            238.27200317382812
+                                        ],
+                                        "spans": [
+                                            {
+                                                "text": "I",
+                                                "font": "ZapfDingbats",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    289.1719970703125,
+                                                    229.19625854492188,
+                                                    295.260009765625,
+                                                    237.19625854492188
+                                                ],
+                                                "flags": 0
+                                            },
+                                            {
+                                                "text": " Denied",
+                                                "font": "Helvetica-Oblique",
+                                                "font_size": 8.0,
+                                                "color": "#808080",
+                                                "bbox": [
+                                                    295.260009765625,
+                                                    227.44000244140625,
+                                                    322.8280029296875,
+                                                    238.27200317382812
+                                                ],
+                                                "flags": 2
+                                            }
+                                        ],
+                                        "text": "I Denied"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "payload": []
+}
